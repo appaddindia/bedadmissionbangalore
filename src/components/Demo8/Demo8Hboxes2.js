@@ -39,11 +39,11 @@ const Demo8Hboxes2 = () => {
               <div className="statistic-block">
                 {/* Digits */}
                 <h5 className="statistic-number">
-                  <Counter end={11} />
+                  <Counter end={2169} />
                 </h5>
                 {/* Text */}
                 <div className="statistic-block-txt">
-                  <h5 className="h5-lg">Years of Experience.</h5>
+                  <h5 className="h5-lg">Number of student get placed</h5>
                 </div>
               </div>
             </div>

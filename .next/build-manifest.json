@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/hHmiINKojvlwzI71_cB6g/_buildManifest.js",
-    "static/hHmiINKojvlwzI71_cB6g/_ssgManifest.js"
+    "static/9pR6c88Ki485u6LS17OLD/_buildManifest.js",
+    "static/9pR6c88Ki485u6LS17OLD/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -45,7 +45,7 @@
       "static/chunks/655-725b98a2ab13ad35.js",
       "static/chunks/325-711113fc10c07bdd.js",
       "static/chunks/790-dd47e6647197f1a9.js",
-      "static/chunks/618-9e13f8568de80177.js",
+      "static/chunks/618-55846370a8577781.js",
       "static/chunks/pages/about-fa9358c1de2b368c.js"
     ],
     "/become-a-teacher": [
@@ -93,7 +93,7 @@
       "static/chunks/70-b3791749851ba91f.js",
       "static/chunks/655-725b98a2ab13ad35.js",
       "static/chunks/325-711113fc10c07bdd.js",
-      "static/chunks/618-9e13f8568de80177.js",
+      "static/chunks/618-55846370a8577781.js",
       "static/chunks/pages/contacts-0a1075c923f99246.js"
     ],
     "/course-details": [
@@ -201,7 +201,7 @@
       "static/chunks/546-99990e3e745b9e38.js",
       "static/chunks/655-725b98a2ab13ad35.js",
       "static/chunks/325-711113fc10c07bdd.js",
-      "static/chunks/pages/demo-8-6785cce52df6f05a.js"
+      "static/chunks/pages/demo-8-1819a3e83f08190c.js"
     ],
     "/demo-9": [
       "static/chunks/webpack-335dccf94a459538.js",
