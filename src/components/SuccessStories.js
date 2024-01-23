@@ -11,9 +11,12 @@ const SuccessStories = () => {
           <img src="images/left-quote.png" alt="quote-image" />
         </div>
         {/* Testimonial Text */}
-        <p>
-          An augue cubilia laoreet and magna suscipit egestas magna ipsum purus
-          ipsum primis and augue ultrice ligula
+        <p style={{ height: "90px", overflowY: "scroll" }}>
+          The B.Ed course provided a comprehensive and well-structured
+          curriculum that covered all aspects of educational theory and
+          practice. The emphasis on practical teaching experiences was
+          particularly beneficial, allowing me to apply what I learned in real
+          classroom settings.
         </p>
         {/* Author Data */}
         <div className="review-1-author d-flex align-items-center">
@@ -21,7 +24,7 @@ const SuccessStories = () => {
           <div className="author-avatar">
             <img
               className="img-fluid"
-              src="images/review-author-8.jpg"
+              src="images/rrr1.jpg"
               alt="review-author-avatar"
             />
           </div>
@@ -35,8 +38,8 @@ const SuccessStories = () => {
               <i className="fas fa-star" />
               <i className="fas fa-star" />
             </div>
-            <h5 className="h5-xs">Jim M.</h5>
-            <span>Software Engineer</span>
+            <h5 className="h5-xs">Veeresh Patil</h5>
+            <span>Hubbli</span>
           </div>
         </div>
       </SwiperSlide>
@@ -48,9 +51,11 @@ const SuccessStories = () => {
           <img src="images/left-quote.png" alt="quote-image" />
         </div>
         {/* Testimonial Text */}
-        <p>
-          An augue cubilia laoreet and magna suscipit egestas magna ipsum purus
-          ipsum primis and augue ultrice ligula
+        <p style={{ height: "90px", overflowY: "scroll" }}>
+          Undertaking the B.Ed program equipped me with invaluable pedagogical
+          skills. The focus on lesson planning, classroom management, and the
+          integration of technology has significantly enhanced my ability to
+          create engaging and effective learning experiences for students.
         </p>
         {/* Author Data */}
         <div className="review-1-author d-flex align-items-center">
@@ -58,7 +63,7 @@ const SuccessStories = () => {
           <div className="author-avatar">
             <img
               className="img-fluid"
-              src="images/review-author-8.jpg"
+              src="images/rrr2.jpg"
               alt="review-author-avatar"
             />
           </div>
@@ -72,8 +77,8 @@ const SuccessStories = () => {
               <i className="fas fa-star" />
               <i className="fas fa-star-half-alt" />
             </div>
-            <h5 className="h5-xs">Jennifer</h5>
-            <span>Graphic Designer</span>
+            <h5 className="h5-xs">Sachin Deshai</h5>
+            <span>Bangalore</span>
           </div>
         </div>
       </SwiperSlide>
@@ -85,9 +90,12 @@ const SuccessStories = () => {
           <img src="images/left-quote.png" alt="quote-image" />
         </div>
         {/* Testimonial Text */}
-        <p>
-          An augue cubilia laoreet and magna suscipit egestas magna ipsum purus
-          ipsum primis and augue ultrice ligula
+        <p style={{ height: "90px", overflowY: "scroll" }}>
+          The B.Ed program's commitment to understanding and addressing the
+          needs of diverse learners was a standout feature. The emphasis on
+          inclusivity has prepared me to create a supportive and accessible
+          learning environment for students with various backgrounds and
+          learning styles.
         </p>
         {/* Author Data */}
         <div className="review-1-author d-flex align-items-center">
@@ -95,7 +103,7 @@ const SuccessStories = () => {
           <div className="author-avatar">
             <img
               className="img-fluid"
-              src="images/review-author-8.jpg"
+              src="images/rrr3.jpg"
               alt="review-author-avatar"
             />
           </div>
@@ -109,193 +117,14 @@ const SuccessStories = () => {
               <i className="fas fa-star" />
               <i className="fas fa-star" />
             </div>
-            <h5 className="h5-xs">Joel Peterson</h5>
-            <span>Online Student</span>
+            <h5 className="h5-xs">Deepa Patil</h5>
+            <span>Mysore</span>
           </div>
         </div>
       </SwiperSlide>
       {/* END TESTIMONIAL #3 */}
       {/* TESTIMONIAL #4 */}
-      <SwiperSlide className="review-1">
-        {/* Quote Icon */}
-        <div className="quote-ico">
-          <img src="images/left-quote.png" alt="quote-image" />
-        </div>
-        {/* Testimonial Text */}
-        <p>
-          An augue cubilia laoreet and magna suscipit egestas magna ipsum purus
-          ipsum primis and augue ultrice ligula
-        </p>
-        {/* Author Data */}
-        <div className="review-1-author d-flex align-items-center">
-          {/* Author Avatar */}
-          <div className="author-avatar">
-            <img
-              className="img-fluid"
-              src="images/review-author-8.jpg"
-              alt="review-author-avatar"
-            />
-          </div>
-          {/* Testimonial Author */}
-          <div className="review-author">
-            {/* Rating */}
-            <div className="tst-rating">
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-            </div>
-            <h5 className="h5-xs">Michael Deal</h5>
-            <span>UX Designer</span>
-          </div>
-        </div>
-      </SwiperSlide>
-      {/* END TESTIMONIAL #4 */}
-      {/* TESTIMONIAL #5 */}
-      <SwiperSlide className="review-1">
-        {/* Quote Icon */}
-        <div className="quote-ico">
-          <img src="images/left-quote.png" alt="quote-image" />
-        </div>
-        {/* Testimonial Text */}
-        <p>
-          An augue cubilia laoreet and magna suscipit egestas magna ipsum purus
-          ipsum primis and augue ultrice ligula
-        </p>
-        {/* Author Data */}
-        <div className="review-1-author d-flex align-items-center">
-          {/* Author Avatar */}
-          <div className="author-avatar">
-            <img
-              className="img-fluid"
-              src="images/review-author-8.jpg"
-              alt="review-author-avatar"
-            />
-          </div>
-          {/* Testimonial Author */}
-          <div className="review-author">
-            {/* Rating */}
-            <div className="tst-rating">
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star-half-alt" />
-            </div>
-            <h5 className="h5-xs">Mark Paterson</h5>
-            <span>Networking Student</span>
-          </div>
-        </div>
-      </SwiperSlide>
-      {/* END TESTIMONIAL #5 */}
-      {/* TESTIMONIAL #6 */}
-      <SwiperSlide className="review-1">
-        {/* Quote Icon */}
-        <div className="quote-ico">
-          <img src="images/left-quote.png" alt="quote-image" />
-        </div>
-        {/* Testimonial Text */}
-        <p>
-          An augue cubilia laoreet and magna suscipit egestas magna ipsum purus
-          ipsum primis and augue ultrice ligula
-        </p>
-        {/* Author Data */}
-        <div className="review-1-author d-flex align-items-center">
-          {/* Author Avatar */}
-          <div className="author-avatar">
-            <img
-              className="img-fluid"
-              src="images/review-author-8.jpg"
-              alt="review-author-avatar"
-            />
-          </div>
-          {/* Testimonial Author */}
-          <div className="review-author">
-            {/* Rating */}
-            <div className="tst-rating">
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-            </div>
-            <h5 className="h5-xs">David L.</h5>
-            <span>WordPress Student</span>
-          </div>
-        </div>
-      </SwiperSlide>
-      {/* END TESTIMONIAL #6 */}
-      {/* TESTIMONIAL #7 */}
-      <SwiperSlide className="review-1">
-        {/* Quote Icon */}
-        <div className="quote-ico">
-          <img src="images/left-quote.png" alt="quote-image" />
-        </div>
-        {/* Testimonial Text */}
-        <p>
-          An augue cubilia laoreet and magna suscipit egestas magna ipsum purus
-          ipsum primis and augue ultrice ligula
-        </p>
-        {/* Author Data */}
-        <div className="review-1-author d-flex align-items-center">
-          {/* Author Avatar */}
-          <div className="author-avatar">
-            <img
-              className="img-fluid"
-              src="images/review-author-8.jpg"
-              alt="review-author-avatar"
-            />
-          </div>
-          {/* Testimonial Author */}
-          <div className="review-author">
-            {/* Rating */}
-            <div className="tst-rating">
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-            </div>
-            <h5 className="h5-xs">Aaron Wall</h5>
-            <span>Online Student</span>
-          </div>
-        </div>
-      </SwiperSlide>
-      {/* END TESTIMONIAL #7 */}
-      {/* TESTIMONIAL #8 */}
-      <SwiperSlide className="review-1">
-        {/* Quote Icon */}
-        <div className="quote-ico">
-          <img src="images/left-quote.png" alt="quote-image" />
-        </div>
-        {/* Testimonial Text */}
-        <p>
-          An augue cubilia laoreet and magna suscipit egestas magna ipsum purus
-          ipsum primis and augue ultrice ligula
-        </p>
-        {/* Author Data */}
-        <div className="review-1-author d-flex align-items-center">
-          {/* Author Avatar */}
-          <div className="author-avatar">
-            <img
-              className="img-fluid"
-              src="images/review-author-8.jpg"
-              alt="review-author-avatar"
-            />
-          </div>
-          {/* Testimonial Author */}
-          <div className="review-author">
-            {/* Rating */}
-            <div className="tst-rating">
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-              <i className="fas fa-star" />
-            </div>
-            <h5 className="h5-xs">Andre Wisdom</h5>
-            <span>PHP Student</span>
-          </div>
-        </div>
-      </SwiperSlide>
+
       {/* END TESTIMONIAL #8 */}
       <div className="owl-dots"></div>
     </Swiper>

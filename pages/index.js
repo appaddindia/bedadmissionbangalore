@@ -1,35 +1,45 @@
+import Demo1About1 from "../src/components/Demo1/Demo1About1";
+import Demo1About2 from "../src/components/Demo1/Demo1About2";
+import Demo1About3 from "../src/components/Demo1/Demo1About3";
+import Demo1Banner3 from "../src/components/Demo1/Demo1Banner3";
+import Demo1Courses3 from "../src/components/Demo1/Demo1Courses3";
+import Demo1Hero1 from "../src/components/Demo1/Demo1Hero1";
+import Demo1News2 from "../src/components/Demo1/Demo1News2";
+import Demo1Services6 from "../src/components/Demo1/Demo1Services6";
+import Demo1Video3 from "../src/components/Demo1/Demo1Video3";
+import Demo8Banner2 from "../src/components/Demo8/Demo8Banner2";
 import HomeAbout1 from "../src/components/Home/HomeAbout1";
 import HomeBanner1 from "../src/components/Home/HomeBanner1";
 import HomeFeatures from "../src/components/Home/HomeFeatures";
 import HomeHero from "../src/components/Home/HomeHero";
 import HomeIPage from "../src/components/Home/HomeIPage";
 import HomeSelect from "../src/components/Home/HomeSelect";
+import Slider from "../src/components/Slider";
+import Layout from "../src/layout/Layout";
 const index = () => {
   return (
-    <div id="page" className="page-wrapper demo">
-      <HomeHero />
-      <HomeAbout1 />
-      <HomeSelect />
-      <HomeFeatures />
-      <HomeIPage />
-      <HomeBanner1 />
-      <footer id="footer" className="footer division">
-        <div className="container">
-          <div className="row">
-            <div className="col-md-12 footer-copyright text-center">
-              <p>
-                Designed with <i className="far fa-heart" /> by Jthemes
-              </p>
-              <p>
-                © {new Date().getFullYear()} <span>eTreeks.</span> All Rights
-                Reserved
-              </p>
-            </div>
-          </div>
-        </div>
-      </footer>{" "}
-      {/* END FOOTER */}
-    </div>
+    <Layout>
+      {/* <Demo1Hero1 /> */}
+      <Slider />
+      <Demo1About1 />
+      <Demo1About2 />
+      <Demo1Courses3 />
+      <Demo1About3 />
+      <Demo1Services6 />
+      <Demo1Video3 />
+
+      <Demo8Banner2 />
+      {/* <Demo1Categories3 /> */}
+      {/* <Demo1Courses5 /> */}
+      {/* <Demo1Reviews3 /> */}
+      {/* <Demo1Courses1 /> */}
+      {/* <Demo1Courses1 /> */}
+      {/* <Demo1Banner5 /> */}
+      {/* <Demo1About4 /> */}
+      {/* <Demo1Services5 /> */}
+      <Demo1News2 />
+      <Demo1Banner3 />
+    </Layout>
   );
 };
 

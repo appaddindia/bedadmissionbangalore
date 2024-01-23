@@ -25,8 +25,7 @@ const Demo1Banner3 = () => {
               <div className="banner-3-txt">
                 {/* Title */}
                 <h4 className="h4-xs">
-                  Learn something new every day with
-                  <span>eTreeks</span>
+                  Learn something new every day with B'Ed Admission in Bangalore
                 </h4>
                 {/* Button */}
                 <Link

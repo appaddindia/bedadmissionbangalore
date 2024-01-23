@@ -23,7 +23,9 @@ const Demo1About3 = () => {
             <div className="col-md-7 col-lg-6">
               <div className="txt-block pc-25">
                 {/* Title */}
-                <h3 className="h3-sm">B'Ed Admission Bangalore</h3>
+                <h3 className="h3-sm">
+                  Enrolling in Bangalore's B.Ed. program.
+                </h3>
                 {/* Text */}
                 <p>
                   Explore our diverse range of B.Ed. programs designed to cater

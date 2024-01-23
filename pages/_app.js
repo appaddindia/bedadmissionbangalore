@@ -15,11 +15,11 @@ function MyApp({ Component, pageProps }) {
   return (
     <VideoState>
       <Head>
-        <title>eTreeks - Education & Courses Landing Page Template</title>
+        <title>B'Ed Admission in Bangalore</title>
         <link
           rel="shortcut icon"
-          href="images/favicon.ico"
-          type="image/x-icon"
+          href="images/logo.png"
+          type="images/logo.png"
         />
       </Head>
       {loader && <PreLoader />}

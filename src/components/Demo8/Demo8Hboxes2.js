@@ -17,7 +17,7 @@ const Demo8Hboxes2 = () => {
                 </h5>
                 {/* Text */}
                 <div className="statistic-block-txt">
-                  <h5 className="h5-lg">Online Courses</h5>
+                  <h5 className="h5-lg">Number Students</h5>
                 </div>
               </div>
             </div>
@@ -26,11 +26,11 @@ const Demo8Hboxes2 = () => {
               <div className="statistic-block">
                 {/* Digits */}
                 <h5 className="statistic-number">
-                  <Counter end={637} />
+                  <Counter end={63} />
                 </h5>
                 {/* Text */}
                 <div className="statistic-block-txt">
-                  <h5 className="h5-lg">Free Online Tutorials</h5>
+                  <h5 className="h5-lg">Total Number of Branches.</h5>
                 </div>
               </div>
             </div>
@@ -39,11 +39,11 @@ const Demo8Hboxes2 = () => {
               <div className="statistic-block">
                 {/* Digits */}
                 <h5 className="statistic-number">
-                  <Counter end={942} />
+                  <Counter end={11} />
                 </h5>
                 {/* Text */}
                 <div className="statistic-block-txt">
-                  <h5 className="h5-lg">eBooks Available</h5>
+                  <h5 className="h5-lg">Years of Experience.</h5>
                 </div>
               </div>
             </div>

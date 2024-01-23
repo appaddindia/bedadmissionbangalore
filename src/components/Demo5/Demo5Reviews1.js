@@ -18,23 +18,16 @@ const Demo5Reviews1 = () => {
                 porta
               </p>
             </div> */}
-            <div className="section-title mb-40">
+            <div className=" mb-40">
               {/* Title 	*/}
-              <h3 className="h3-sm">Popular Courses</h3>
+              <h3 className="h3-sm">Student Testimonials.</h3>
               {/* Text */}
               <p className="p-md">
-                Aliquam a augue suscipit, luctus neque purus ipsum neque dolor
-                primis libero tempus.
+                The BED course has been a transformative journey for students,
+                fostering deep understanding and practical skills for effective
+                teaching in the education field.
               </p>
               {/* Button */}
-              <div className="title-btn">
-                <Link
-                  href="/courses-list"
-                  className="btn btn-tra-grey rose-hover"
-                >
-                  View All Courses
-                </Link>
-              </div>
             </div>
           </div>
         </div>

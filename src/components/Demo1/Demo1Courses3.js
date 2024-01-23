@@ -79,7 +79,7 @@ const Demo1Courses3 = () => {
                   href="/courses-list"
                   className="btn btn-tra-grey rose-hover"
                 >
-                  View All Courses
+                  B.Ed Admission
                 </Link>
               </div>
             </div>

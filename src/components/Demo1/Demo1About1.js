@@ -15,8 +15,11 @@ const Demo1About1 = () => {
               <span className="flaticon-004-computer" />
               {/* Text */}
               <div className="abox-1-txt">
-                <h5 className="h5-md">2,769 online courses</h5>
-                <p className="p-md">Explore a variety of fresh topics</p>
+                <h5 className="h5-md">CAREER CONSULTANCY</h5>
+                <p className="p-md">
+                  Get relevant career paths traced by experts to ascertain the
+                  best opportunities
+                </p>
               </div>
             </div>
           </div>
@@ -28,8 +31,11 @@ const Demo1About1 = () => {
               <span className="flaticon-028-learning-1" />
               {/* Text */}
               <div className="abox-1-txt">
-                <h5 className="h5-md">Expert instruction</h5>
-                <p className="p-md">Find the right instructor for you</p>
+                <h5 className="h5-md">LEARNING SUPPORT</h5>
+                <p className="p-md">
+                  Unparalleled guidance from industry mentors, teaching
+                  assistants and peers
+                </p>
               </div>
             </div>
           </div>
@@ -41,8 +47,11 @@ const Demo1About1 = () => {
               <span className="flaticon-032-tablet" />
               {/* Text */}
               <div className="abox-1-txt">
-                <h5 className="h5-md">Lifetime access</h5>
-                <p className="p-md">Learn on your schedule</p>
+                <h5 className="h5-md">PLACEMENT ASSISTANCE</h5>
+                <p className="p-md">
+                  Make informed career choices with career counselling sessions
+                  from industry experts
+                </p>
               </div>
             </div>
           </div>

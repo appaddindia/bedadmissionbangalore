@@ -15,7 +15,6 @@ const Layout = ({ children, footer, headerBtn }) => {
   const { video } = videoContext;
   return (
     <div className="page" id="page">
-      {video.show && <VideoPopup />}
       <Header headerBtn={headerBtn} />
       {children}
       {footer === 2 ? <Footer2 /> : <Footer />}
