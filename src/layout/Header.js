@@ -26,18 +26,18 @@ const Header = ({ headerBtn }) => {
           </Link>
           <span className="smllogo smllogo-black">
             <img
-              src="images/logo.png"
+              src="images/logo-a.png"
               width={172}
               height={40}
-              alt="mobile-logo"
+              alt="header-logo"
             />
           </span>
           <span className="smllogo smllogo-white">
             <img
-              src="images/logo-white.png"
+              src="images/logo-a.png"
               width={172}
               height={40}
-              alt="mobile-logo"
+              alt="header-logo"
             />
           </span>
         </div>
