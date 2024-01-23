@@ -59,9 +59,9 @@ const Header = ({ headerBtn }) => {
             <div className="desktoplogo">
               <Link href="d#hero-3" className="logo-white">
                 <img
-                  src="images/logo-white.png"
-                  width={172}
-                  height={40}
+                  src="images/logo-a.png"
+                  width={230}
+                  height={60}
                   alt="header-logo"
                 />
               </Link>
