@@ -23,25 +23,37 @@ const Demo1About3 = () => {
             <div className="col-md-7 col-lg-6">
               <div className="txt-block pc-25">
                 {/* Title */}
-                <h3 className="h3-sm">
-                  Learn new personal &amp; professional skills online
-                </h3>
+                <h3 className="h3-sm">B'Ed Admission Bangalore</h3>
                 {/* Text */}
                 <p>
-                  An enim nullam tempor sapien gravida donec porta and blandit
-                  ipsum enim justo integer velna vitae auctor integer congue
-                  magna and purus pretium risus ligula rutrum luctus ultrice
+                  Explore our diverse range of B.Ed. programs designed to cater
+                  to the evolving needs of the education sector. Whether you are
+                  a recent graduate or a seasoned professional looking to
+                  enhance your teaching abilities, our programs are tailored to
+                  suit various career stages and goals.
                 </p>
                 {/* List */}
                 <ul className="txt-list mb-15">
                   <li>
-                    Nullam rutrum eget nunc varius etiam mollis risus undo
+                    <b>Foundations of Education:</b> Build a solid understanding
+                    of the principles and theories that form the basis of
+                    effective teaching and learning.
                   </li>
                   <li>
-                    Integer congue magna at pretium purus pretium ligula at
-                    rutrum risus luctus dolor auctor ipsum blandit purus
+                    <b>Pedagogical Techniques:</b> Develop innovative and
+                    engaging teaching methodologies that cater to diverse
+                    learning styles.
                   </li>
-                  <li>Risus at congue etiam aliquam sapien egestas posuere</li>
+                  <li>
+                    <b>Classroom Management:</b> Acquire practical skills in
+                    maintaining a positive and productive learning environment.
+                  </li>
+                  <li>
+                    <b>Specialized Tracks:</b> Choose from a variety of
+                    specialized tracks to align your training with your specific
+                    interests, such as inclusive education, educational
+                    technology, and more.
+                  </li>
                 </ul>
                 {/* Button */}
                 <Link
