@@ -1,0 +1,25 @@
+{
+  "name": "etreeks",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@svgr/webpack": "^8.1.0",
+    "firebase": "^10.7.2",
+    "isotope-layout": "^3.0.6",
+    "moment": "^2.29.4",
+    "next": "^13.2.4",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-countup": "^6.4.2",
+    "react-dom": "18.2.0",
+    "react-visibility-sensor": "^5.1.1",
+    "swiper": "^9.1.0",
+    "firebase-frameworks": "^0.11.0",
+    "firebase-functions": "^4.5.0",
+    "firebase-admin": "^11.11.1"
+  },
+  "main": "server.js",
+  "engines": {
+    "node": "20"
+  }
+}
