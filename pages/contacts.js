@@ -46,7 +46,10 @@ const contacts = () => {
                       House, Koramangala, Bengaluru, Karnataka 560 095
                     </p>
                     {/* Button */}
-                    <a href="/contacts" className="btn btn-tra-grey rose-hover">
+                    <a
+                      href="https://www.google.com/maps/dir//Digital+Distance+Education+Mission+5TH+BLOCK+A%2F8,+2nd+Floor+20th+Main+Rd,+opp.+Sapna+Book+House,+Koramangala,+Bengaluru,+Karnataka+560095/@12.9362154,77.6164664,14z/data=!4m5!4m4!1m0!1m2!1m1!1s0x3bae150dddd072b5:0x7d5c2cd27437beb6"
+                      className="btn btn-tra-grey rose-hover"
+                    >
                       Find Location On Map
                     </a>
                   </div>
@@ -68,15 +71,12 @@ const contacts = () => {
                       would be delighted to assist you promptly
                     </p>
                     {/* Button */}
-                    <Link
-                      onClick={(e) => {
-                        e.preventDefault();
-                      }}
-                      href="mailto:yourdomain@mail.com"
+                    <a
+                      href="mailto:info@digitaleducationmission"
                       className="btn btn-tra-grey rose-hover"
                     >
                       info@digitaleducationmission
-                    </Link>
+                    </a>
                   </div>
                 </div>
                 {/* CONTACT BOX #3 */}
@@ -95,15 +95,12 @@ const contacts = () => {
                       Have questions about teaching and career opportunities?
                     </p>
                     {/* Button */}
-                    <Link
-                      onClick={(e) => {
-                        e.preventDefault();
-                      }}
-                      href="mailto:yourdomain@mail.com"
+                    <a
+                      href="tel:9538861888"
                       className="btn btn-tra-grey rose-hover"
                     >
                       095388 61888
-                    </Link>
+                    </a>
                   </div>
                 </div>
               </div>
