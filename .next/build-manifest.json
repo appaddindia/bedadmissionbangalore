@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/jACS_Pk_mdzFrINw31EtJ/_buildManifest.js",
-    "static/jACS_Pk_mdzFrINw31EtJ/_ssgManifest.js"
+    "static/AQ7ayY1D6J_RWXu7wujuD/_buildManifest.js",
+    "static/AQ7ayY1D6J_RWXu7wujuD/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -47,7 +47,7 @@
       "static/chunks/325-74de166c86eef4ea.js",
       "static/chunks/738-bb4699439fe1fe27.js",
       "static/chunks/618-5a1500d9eff74aa1.js",
-      "static/chunks/pages/about-fbecd7c567b4bdda.js"
+      "static/chunks/pages/about-ce2adaeac0825f59.js"
     ],
     "/admission": [
       "static/chunks/webpack-335dccf94a459538.js",
@@ -58,7 +58,7 @@
       "static/chunks/655-725b98a2ab13ad35.js",
       "static/chunks/325-74de166c86eef4ea.js",
       "static/chunks/18-43598d08ce9faa67.js",
-      "static/chunks/pages/admission-40a85324f3a7895c.js"
+      "static/chunks/pages/admission-2696f9197b2e7188.js"
     ],
     "/become-a-teacher": [
       "static/chunks/webpack-335dccf94a459538.js",
@@ -108,7 +108,7 @@
       "static/chunks/655-725b98a2ab13ad35.js",
       "static/chunks/325-74de166c86eef4ea.js",
       "static/chunks/618-5a1500d9eff74aa1.js",
-      "static/chunks/pages/contacts-dd9717b42d6e2eed.js"
+      "static/chunks/pages/contacts-4ce9165198a86d24.js"
     ],
     "/course-details": [
       "static/chunks/webpack-335dccf94a459538.js",
@@ -274,7 +274,7 @@
       "static/chunks/325-74de166c86eef4ea.js",
       "static/chunks/541-2c8d7b982b703319.js",
       "static/chunks/484-8a75ec01743b6be5.js",
-      "static/chunks/pages/scholarship-da434328d54c9ac3.js"
+      "static/chunks/pages/scholarship-eb9ae139a643fb83.js"
     ],
     "/single-post": [
       "static/chunks/webpack-335dccf94a459538.js",
@@ -290,7 +290,7 @@
       "static/chunks/main-c379b48138cf9870.js",
       "static/chunks/70-b3791749851ba91f.js",
       "static/chunks/325-74de166c86eef4ea.js",
-      "static/chunks/pages/teacher-profile-ef0e77840ddd4452.js"
+      "static/chunks/pages/teacher-profile-6268e93c79a5633e.js"
     ],
     "/teachers-list": [
       "static/chunks/webpack-335dccf94a459538.js",

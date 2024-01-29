@@ -25,58 +25,56 @@ import Aboutinfo from "../src/components/Selfcreated/Aboutinfo";
 const about = () => {
   return (
     <Layout>
-      <div className="inner-page-wrapper">
-        <Demo8Hero8 />
-        {/* END HERO-8 */}
-        {/* HERO BOXES-2
+      <Demo8Hero8 />
+      {/* END HERO-8 */}
+      {/* HERO BOXES-2
                       ============================================= */}
-        <Demo8Hboxes2 />
-        {/* <Demo1About2 /> */}
-        <Aboutinfo />
-        <Demo1Services6 />
-        <Demo1Video3 />
-        {/* <About2 /> */}
-        {/* End ABOUT-2 */}
-        {/* STATISTIC-1
+      <Demo8Hboxes2 />
+      {/* <Demo1About2 /> */}
+      <Aboutinfo />
+      <Demo1Services6 />
+      <Demo1Video3 />
+      {/* <About2 /> */}
+      {/* End ABOUT-2 */}
+      {/* STATISTIC-1
 				============================================= */}
-        {/* <AboutStatistic1 /> */}
-        {/* END STATISTIC-1 */}
-        {/* COURSES-3
+      {/* <AboutStatistic1 /> */}
+      {/* END STATISTIC-1 */}
+      {/* COURSES-3
 				============================================= */}
-        {/* <Aboutcourses3 /> */}
-        {/* END COURSES-3 */}
-        {/* VIDEO-1
+      {/* <Aboutcourses3 /> */}
+      {/* END COURSES-3 */}
+      {/* VIDEO-1
 				============================================= */}
-        {/* <Video1 /> */}
-        {/* END VIDEO-1 */}
-        {/* CATEGORIES-4
+      {/* <Video1 /> */}
+      {/* END VIDEO-1 */}
+      {/* CATEGORIES-4
 				============================================= */}
-        {/* <Aboutcategories4 /> */}
-        {/* END CATEGORIES-4 */}
-        {/* BANNER-2
+      {/* <Aboutcategories4 /> */}
+      {/* END CATEGORIES-4 */}
+      {/* BANNER-2
 				============================================= */}
-        {/* END BANNER-2 */}
-        {/* SERVICES-5
+      {/* END BANNER-2 */}
+      {/* SERVICES-5
 				============================================= */}
-        <Aboutservices5 />
-        {/* End SERVICES-5 */}
-        {/* TEAM-2
+      <Aboutservices5 />
+      {/* End SERVICES-5 */}
+      {/* TEAM-2
 				============================================= */}
-        {/* <Aboutteam2 /> */}
-        {/* END TEAM-2 */}
-        {/* NEWS-1
+      {/* <Aboutteam2 /> */}
+      {/* END TEAM-2 */}
+      {/* NEWS-1
 				============================================= */}
-        {/* <Aboutnews1 /> */}
-        {/* End NEWS-1 */}
-        {/* TESTIMONIALS-1
+      {/* <Aboutnews1 /> */}
+      {/* End NEWS-1 */}
+      {/* TESTIMONIALS-1
 				============================================= */}
-        {/* <Aboutreviews1 /> */}
-        {/* END TESTIMONIALS-1 */}
-        {/* BANNER-3
+      {/* <Aboutreviews1 /> */}
+      {/* END TESTIMONIALS-1 */}
+      {/* BANNER-3
 				============================================= */}
 
-        <Demo1Banner3 />
-      </div>
+      <Demo1Banner3 />
     </Layout>
   );
 };

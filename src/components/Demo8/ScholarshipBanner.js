@@ -4,9 +4,12 @@ function ScholarshipBanner() {
   return (
     <section
       style={{
-        padding: "100px 0px 125px",
+        padding: "100px 0px 100px",
         backgroundImage:
           "linear-gradient(rgba(0, 0, 0, 0.205), rgba(0, 0, 0, 0.205)),url(../images/sccvc.jpg)",
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
       }}
       id="hero-8"
       className="bg-scroll hero-section division baxsvjkn"
