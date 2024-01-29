@@ -1,6 +1,7 @@
-import React, { Fragment } from "react";
+import React, { Fragment, useState } from "react";
 
 const BlogListingNewsLetter1 = () => {
+  const [input, setInput] = useState();
   return (
     <Fragment>
       <section id="newsletter-1" className="newsletter-section division">
@@ -12,8 +13,8 @@ const BlogListingNewsLetter1 = () => {
                 <div className="newsletter-txt white-color">
                   <h3 className="h3-sm">Stay in Touch</h3>
                   <p>
-                    Get personalized course recommendations, track subjects and
-                    courses with reminders and more
+                    Eliminate barriers, empower professionals, and unleash
+                    career growth potential globally.
                   </p>
                 </div>
               </div>
@@ -28,16 +29,25 @@ const BlogListingNewsLetter1 = () => {
                       type="email"
                       autoComplete="off"
                       className="form-control"
-                      placeholder="Your email address"
+                      placeholder="Ask Question"
                       required
+                      onChange={(e) => {
+                        setInput(e.target.value);
+                      }}
                     />
                     <span className="input-group-btn">
-                      <button
-                        type="submit"
+                      <a
+                        href={`
+                https://api.whatsapp.com/send?phone=9538861888&text=${input}`}
+                        style={{
+                          display: "flex",
+                          justifyContent: "center",
+                          alignItems: "center",
+                        }}
                         className="btn btn-md btn-rose tra-white-hover"
                       >
-                        Subscribe Now
-                      </button>
+                        Send Message
+                      </a>
                     </span>
                   </div>
                   {/* Newsletter Form Notification */}

@@ -5,7 +5,8 @@ function Gallerybanner() {
     <section
       style={{
         padding: "100px 0px 125px",
-        backgroundImage: "url(../images/balleryim.jpg)",
+        backgroundImage:
+          "linear-gradient(rgba(0, 0, 0, 0.205), rgba(0, 0, 0, 0.205)),url(../images/balleryim.jpg)",
       }}
       id="hero-8"
       className="bg-scroll hero-section division"

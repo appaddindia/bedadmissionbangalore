@@ -86,10 +86,10 @@ const Header = ({ headerBtn }) => {
                 {/* MEGAMENU */}
                 {/* SIMPLE NAVIGATION LINK */}
                 <li className="nl-simple">
-                  <Link href="/">B.Ed Admission</Link>
+                  <Link href="/admission">B.Ed Admission</Link>
                 </li>
                 <li className="nl-simple">
-                  <Link href="/">Scholarship</Link>
+                  <Link href="/scholarship">Scholarship</Link>
                 </li>
                 {/* SIMPLE NAVIGATION LINK */}
                 <li className="nl-simple">

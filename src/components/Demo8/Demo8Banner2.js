@@ -100,12 +100,17 @@ const Demo8Banner2 = () => {
                 </div>
                 {/* Form Button */}
                 <div className="col-md-12 form-btn">
-                  <button
-                    type="submit"
+                  <a
+                    href="https://api.whatsapp.com/send?phone=9538861888&text=Hello"
+                    style={{
+                      display: "flex",
+                      justifyContent: "center",
+                      alignContent: "center",
+                    }}
                     className="btn btn-md btn-rose tra-black-hover submit"
                   >
                     Register Now
-                  </button>
+                  </a>
                 </div>
                 {/* Form Message */}
                 <div className="col-md-12 register-form-msg text-center">

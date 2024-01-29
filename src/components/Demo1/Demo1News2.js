@@ -9,12 +9,11 @@ const Demo1News2 = () => {
           <div className="col-md-12">
             <div className="section-title mb-70">
               {/* Title 	*/}
-              <h3 className="h3-sm">Transformative B.Ed. Program</h3>
+              <h3 className="h3-sm">B.Ed. Success Tales</h3>
               {/* Text */}
               <p className="p-md">
-                Revolutionize your educational journey with our transformative
-                B.Ed. program, blending modern infrastructure, rich resources,
-                and practical labs.
+                Empowering Journeys: Inspiring Stories from B.Ed. Graduates in
+                Bangalore University's Online Program
               </p>
               {/* Button */}
               <div className="title-btn">
@@ -36,13 +35,14 @@ const Demo1News2 = () => {
             <div id="a2-1" className="article-2 b-right">
               {/* Post Data */}
               {/* Title */}
-              <h5 className="h5-sm">Modern Classroom Infrastructure</h5>
+              <h5 className="h5-sm">Sneha Patel</h5>
               {/* Text */}
-              <p>
-                Immerse yourself in our B.Ed. program with cutting-edge
-                classrooms equipped with interactive technology, fostering an
-                engaging and dynamic learning environment that prepares future
-                educators for innovative teaching methodologies.
+              <p style={{ height: "130px", overflowY: "scroll" }}>
+                Hi, I'm Sneha Patel, sharing my success story as a student at
+                B.Ed Admission in Bangalore University. Originally pursuing
+                engineering, I realized my true passion lay in education. The
+                online B.Ed. course not only made this transition possible but
+                also empowered me to become a dedicated and passionate educator.
               </p>
               {/* Post Author */}
             </div>
@@ -51,14 +51,15 @@ const Demo1News2 = () => {
           {/* ARTICLE #2 */}
           <div className="col-md-6 col-lg-3">
             <div id="a2-2" className="article-2 b-right">
-              <h5 className="h5-sm">Resource-Rich Library</h5>
+              <h5 className="h5-sm">Rohit Sharma</h5>
               {/* Text */}
-              <p>
-                Explore boundless knowledge at our extensive library, curated
-                with a diverse collection of educational resources. From
-                textbooks to research materials, our library serves as a hub for
-                B.Ed. students to delve into the depths of pedagogy and
-                educational theory.
+              <p style={{ height: "130px", overflowY: "scroll" }}>
+                Hey there! I'm Rohit Sharma, a tech enthusiast turned teacher.
+                Thanks to B.Ed Admission in Bangalore University's online
+                program, I seamlessly shifted gears from the IT world to
+                education. Now, I'm combining my love for technology with the
+                art of teaching, creating an engaging learning experience for my
+                students.
               </p>
             </div>
           </div>
@@ -66,14 +67,14 @@ const Demo1News2 = () => {
           {/* ARTICLE #3 */}
           <div className="col-md-6 col-lg-3">
             <div id="a2-3" className="article-2 b-right">
-              <h5 className="h5-sm">Online Learning Platforms</h5>
+              <h5 className="h5-sm">Reema Singh</h5>
               {/* Text */}
-              <p>
-                Embrace flexible online learning for B.Ed. students, offering
-                accessible, interactive digital resources. Our commitment to
-                technology-enhanced education enables seamless coursework
-                engagement and peer collaboration, enhancing your learning
-                journey.
+              <p style={{ height: "130px", overflowY: "scroll" }}>
+                Hello, everyone! I'm Reema Singh, a working professional who
+                aspired to make a difference in education. Enrolling in B.Ed
+                Admission in Bangalore University's online course allowed me to
+                pursue my dream without disrupting my career. Now, I'm
+                successfully managing both my job and my passion for teaching.
               </p>
             </div>
           </div>
@@ -83,13 +84,15 @@ const Demo1News2 = () => {
             <div id="a2-4" className="article-2">
               {/* Post Data */}
               {/* Title */}
-              <h5 className="h5-sm">Practical Teaching Labs</h5>
+              <h5 className="h5-sm">Rahul Verma</h5>
               {/* Text */}
-              <p>
-                Experience hands-on learning in our well-equipped teaching labs,
-                designed to simulate real-world classroom scenarios. Our B.Ed.
-                program emphasizes practical training, ensuring that students
-                develop the necessary skills to excel in the art of teaching.
+              <p style={{ height: "130px", overflowY: "scroll" }}>
+                Namaste! I'm Rahul Verma, sharing my transformative journey as a
+                student at B.Ed Admission in Bangalore University. The online
+                B.Ed. program not only honed my teaching skills but also
+                equipped me with the tools to create an inclusive and dynamic
+                virtual classroom environment, impacting the lives of my
+                students.
               </p>
               {/* Post Author */}
             </div>

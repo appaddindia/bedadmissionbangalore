@@ -20,6 +20,7 @@ import Demo1Services6 from "../src/components/Demo1/Demo1Services6";
 import Demo1Video3 from "../src/components/Demo1/Demo1Video3";
 import Demo1About3 from "../src/components/Demo1/Demo1About3";
 import Demo1Banner3 from "../src/components/Demo1/Demo1Banner3";
+import Aboutinfo from "../src/components/Selfcreated/Aboutinfo";
 
 const about = () => {
   return (
@@ -30,7 +31,8 @@ const about = () => {
         {/* HERO BOXES-2
                       ============================================= */}
         <Demo8Hboxes2 />
-        <Demo1About2 />
+        {/* <Demo1About2 /> */}
+        <Aboutinfo />
         <Demo1Services6 />
         <Demo1Video3 />
         {/* <About2 /> */}

@@ -1,6 +1,8 @@
+"use client";
 import Link from "next/link";
-import React from "react";
+import { useState } from "react";
 const Footer = () => {
+  const [input, setInput] = useState();
   return (
     <footer id="footer-2" className="footer division">
       <div className="container">
@@ -38,10 +40,10 @@ const Footer = () => {
                   <Link href="/about">About Us</Link>
                 </li>
                 <li>
-                  <Link href="/">B.Ed Admission</Link>
+                  <Link href="/admission">B.Ed Admission</Link>
                 </li>
                 <li>
-                  <Link href="/">Scholarship</Link>
+                  <Link href="/scholarship">Scholarship</Link>
                 </li>
                 <li>
                   <Link href="/contacts">Contct Us</Link>
@@ -89,16 +91,25 @@ const Footer = () => {
                     type="email"
                     autoComplete="off"
                     className="form-control"
-                    placeholder="Your Email Address"
+                    placeholder="Ask Your Inquiry"
                     required
+                    onChange={(e) => {
+                      setInput(e.target.value);
+                    }}
                   />
                   <span className="input-group-btn">
-                    <button
-                      type="submit"
+                    <a
+                      style={{
+                        display: "flex ",
+                        justifyContent: "center",
+                        alignItems: "center",
+                      }}
+                      href={`
+                https://api.whatsapp.com/send?phone=9538861888&text=${input}`}
                       className="btn btn-rose tra-rose-hover"
                     >
-                      Subscribe
-                    </button>
+                      Send Message
+                    </a>
                   </span>
                 </div>
                 {/* Newsletter Form Notification */}

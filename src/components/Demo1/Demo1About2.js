@@ -10,7 +10,7 @@ const Demo1About2 = () => {
             <div className="img-block pc-25 mb-40">
               <img
                 className="img-fluid"
-                src="images/image-01.png"
+                src="images/Group 181950.png"
                 alt="about-image"
               />
             </div>

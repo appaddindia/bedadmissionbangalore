@@ -5,7 +5,8 @@ const Demo8Hero8 = () => {
     <section
       style={{
         padding: "100px 0px 125px",
-        backgroundImage: "url(../images/aboutbanner.jpg)",
+        backgroundImage:
+          "linear-gradient(rgba(0, 0, 0, 0.205), rgba(0, 0, 0, 0.205)),url(../images/aboutbanner.jpg)",
       }}
       id="hero-8"
       className="bg-scroll hero-section division"
