@@ -24,7 +24,7 @@ const Demo1About3 = () => {
               <div className="txt-block pc-25">
                 {/* Title */}
                 <h3 className="h3-sm">
-                  Enrolling in Bangalore's B.Ed. program.
+                  Enrolling in Bangalore Univercity B.Ed. program.
                 </h3>
                 {/* Text */}
                 <p>
@@ -58,12 +58,14 @@ const Demo1About3 = () => {
                   </li>
                 </ul>
                 {/* Button */}
-                <Link
-                  href="/categories-list"
+                <a
+                  // href="/categories-list"
+                  // href="
+                  href="https://api.whatsapp.com/send?phone=9538861888&text=Hello"
                   className="btn btn-md btn-rose tra-black-hover"
                 >
                   Start Learning Now
-                </Link>
+                </a>
               </div>
             </div>
             {/* END ABOUT TEXT */}

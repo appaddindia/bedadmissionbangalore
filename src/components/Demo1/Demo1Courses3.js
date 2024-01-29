@@ -5,12 +5,14 @@ const Demo1Courses3 = () => {
     {
       name: "Professional Qualification",
       img: "aaa4.jpg",
+      id: "unleashing-1",
       rate: 5,
       des: "B.Ed is a professional degree that provides individuals with the necessary qualifications and credentials to become certified teachers or educators in various educational settings.",
     },
     {
       name: "Specialized Knowledge",
       img: "aaa5.jpg",
+      id: "unleashing-2",
       rate: 5,
       des: "The program equips students with in-depth knowledge of educational theories, teaching methodologies, and strategies, enabling them to develop effective teaching practices.",
     },
@@ -18,36 +20,42 @@ const Demo1Courses3 = () => {
       name: "Pedagogical Skills Development",
       img: "aaa6.jpg",
       rate: 5,
+      id: "unleashing-3",
       des: "B.Ed programs focus on the development of pedagogical skills, including lesson planning, classroom management, and the ability to create engaging and effective learning experiences.",
     },
     {
       name: "Practical Teaching Experience",
       img: "aaa7.jpg",
       rate: 5,
+      id: "unleashing-4",
       des: "Many B.Ed programs include practical teaching experiences, such as internships or teaching practicums, allowing students to apply theoretical knowledge in real classroom settings.",
     },
     {
       name: "Diversity Comprehension",
       img: "aaa8.jpg",
       rate: 5,
+      id: "unleashing-5",
       des: "B.Ed programs emphasize understanding and addressing the needs of diverse learners, including those with different learning styles, abilities, and cultural backgrounds.",
     },
     {
       name: "Professional Networking",
       img: "aaa9.jpg",
       rate: 5,
+      id: "unleashing-6",
       des: "Students in B.Ed programs have opportunities to network with educators, administrators, and fellow students, building connections that can be valuable throughout their teaching careers.",
     },
     {
       name: "Career Advancement",
       img: "aaa10.jpg",
       rate: 5,
+      id: "unleashing-7",
       des: "B.Ed is often a prerequisite for obtaining teaching positions in schools, and having this degree can open doors to various career advancement opportunities within the field of education.",
     },
     {
       name: "Educational Impact",
       img: "aaa11.jpg",
       rate: 5,
+      id: "unleashing-8",
       des: "Educators play a crucial role in shaping the future by imparting knowledge and skills to the next generation. Completing a B.Ed program allows individuals to contribute to societal development through education.",
     },
   ];
@@ -76,7 +84,8 @@ const Demo1Courses3 = () => {
               {/* Button */}
               <div className="title-btn">
                 <Link
-                  href="/courses-list"
+                  // href="/courses-list"
+                  href="/admission"
                   className="btn btn-tra-grey rose-hover"
                 >
                   B.Ed Admission
@@ -91,9 +100,9 @@ const Demo1Courses3 = () => {
           {menu.map((elem) => {
             return (
               <>
-                <div className="col-md-6 col-lg-4 col-xl-3">
+                <div id={elem.id} className="col-md-6 col-lg-4 col-xl-3">
                   <div className="cbox-1">
-                    <Link href="/course-details">
+                    <Link href="/admission">
                       {/* Image */}
                       <img
                         className="img-fluid"

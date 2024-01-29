@@ -15,7 +15,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <VideoState>
       <Head>
-        <title>B'Ed Admission in Bangalore</title>
+        <title>B.Ed Admission in Bangalore Univercity</title>
         <link
           rel="shortcut icon"
           href="images/logo.png"

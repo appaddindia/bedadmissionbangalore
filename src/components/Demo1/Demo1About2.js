@@ -19,7 +19,7 @@ const Demo1About2 = () => {
           <div className="col-md-7 col-lg-6">
             <div className="txt-block pc-25 mb-40">
               {/* Title */}
-              <h3 className="h3-sm">B'Ed Admission in Bangalore</h3>
+              <h3 className="h3-sm">B.Ed Admission in Bangalore Univercity</h3>
               {/* Text */}
               <p>
                 We take pride in our commitment to shaping the future of
@@ -51,9 +51,13 @@ const Demo1About2 = () => {
                 </li>
               </ul>
 
-              <Link href="/demo-1" className="btn btn-tra-rose" target="_blank">
+              <a
+                href="https://api.whatsapp.com/send?phone=9538861888&text=Hello"
+                className="btn btn-tra-rose"
+                target="_blank"
+              >
                 Contact by WhatsApp
-              </Link>
+              </a>
             </div>
           </div>
           {/* END ABOUT TEXT */}

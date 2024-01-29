@@ -96,12 +96,12 @@ const Header = ({ headerBtn }) => {
                   <Link href="/contacts">Contacts</Link>
                 </li>
                 <li className="nl-simple">
-                  <Link
-                    href="#"
+                  <a
+                    href="https://api.whatsapp.com/send?phone=9538861888&text=Hello"
                     className="btn btn-md btn-rose tra-white-hover"
                   >
                     Start Learning Now!
-                  </Link>
+                  </a>
                 </li>
                 {/* DROPDOWN MENU */}
 

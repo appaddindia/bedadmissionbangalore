@@ -19,7 +19,8 @@ const Demo1News2 = () => {
               {/* Button */}
               <div className="title-btn">
                 <Link
-                  href="/blog-listing"
+                  // href="/blog-listing"
+                  href="/contacts"
                   className="btn btn-tra-grey rose-hover"
                 >
                   Contact Us

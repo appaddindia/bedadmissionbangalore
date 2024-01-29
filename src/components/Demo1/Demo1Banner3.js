@@ -25,15 +25,17 @@ const Demo1Banner3 = () => {
               <div className="banner-3-txt">
                 {/* Title */}
                 <h4 className="h4-xs">
-                  Learn something new every day with B'Ed Admission in Bangalore
+                  Learn something new every day with B.Ed Admission in Bangalore
+                  Univercity
                 </h4>
                 {/* Button */}
-                <Link
-                  href="/courses-list"
+                <a
+                  // href="/courses-list"
+                  href="tel:9538861888"
                   className="btn btn-rose tra-black-hover"
                 >
                   Find Out More
-                </Link>
+                </a>
               </div>
             </div>
             {/* END BANNER TEXT */}

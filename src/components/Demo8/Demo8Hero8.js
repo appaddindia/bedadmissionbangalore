@@ -14,15 +14,18 @@ const Demo8Hero8 = () => {
         <div className="row">
           {/* HERO TEXT */}
           <div className="col-md-12">
-            <div className="hero-txt text-center white-color">
+            <div
+              style={{ marginTop: "60px" }}
+              className="hero-txt text-center white-color"
+            >
               {/* Title */}
               <h4 className="h4-xs">About Us</h4>
-              <h2 className="h2-sm">
-                "Committed to Education's Future: Comprehensive B.Ed. Programs."
+              <h2 style={{ fontSize: "36px" }} className="h2-sm">
+                Committed to Education's Future: Comprehensive B.Ed. Programs.
               </h2>
               {/* Button */}
               <a
-                href="#categories-3"
+                href="tel:9538861888"
                 className="btn btn-md btn-rose tra-white-hover"
               >
                 Start Learning Now

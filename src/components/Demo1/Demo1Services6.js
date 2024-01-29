@@ -25,9 +25,12 @@ const Demo1Services6 = () => {
                 traditional boundaries.
               </p>
               {/* Button */}
-              <Link href="#" className="btn btn-md btn-rose tra-white-hover">
+              <a
+                href="tel:9538861888"
+                className="btn btn-md btn-rose tra-white-hover"
+              >
                 Start Learning Now!
-              </Link>
+              </a>
             </div>
           </div>
         </div>

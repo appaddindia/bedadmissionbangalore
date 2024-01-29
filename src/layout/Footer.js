@@ -11,12 +11,14 @@ const Footer = () => {
             <div className="footer-info mb-40">
               {/* Footer Logo */}
               {/* For Retina Ready displays take a image with double the amount of pixels that your image will be displayed (e.g 344 x 80 pixels) */}
-              <img
-                src="images/logo-a.png"
-                width={230}
-                height={60}
-                alt="header-logo"
-              />
+              <Link href="/">
+                <img
+                  src="images/logo-a.png"
+                  width={230}
+                  height={60}
+                  alt="header-logo"
+                />
+              </Link>
               {/* Text */}
               <p>
                 We proudly uphold our commitment to shaping the future of
@@ -33,9 +35,6 @@ const Footer = () => {
               {/* Footer Links */}
               <ul className="foo-links clearfix">
                 <li>
-                  <Link href="/about">Home</Link>
-                </li>
-                <li>
                   <Link href="/about">About Us</Link>
                 </li>
                 <li>
@@ -46,6 +45,9 @@ const Footer = () => {
                 </li>
                 <li>
                   <Link href="/contacts">Contct Us</Link>
+                </li>
+                <li>
+                  <Link href="/gallery">Gallery</Link>
                 </li>
               </ul>
             </div>
@@ -58,54 +60,19 @@ const Footer = () => {
               {/* Footer Links */}
               <ul className="clearfix">
                 <li>
-                  <Link
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                    }}
-                  >
-                    Professional Qualification
-                  </Link>
+                  <Link href="/admission">Professional Qualification</Link>
                 </li>
                 <li>
-                  <Link
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                    }}
-                  >
-                    Specialized Knowledge
-                  </Link>
+                  <Link href="/admission">Specialized Knowledge</Link>
                 </li>
                 <li>
-                  <Link
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                    }}
-                  >
-                    Pedagogical Skills Development
-                  </Link>
+                  <Link href="/admission">Pedagogical Skills Development</Link>
                 </li>
                 <li>
-                  <Link
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                    }}
-                  >
-                    Practical Teaching Experience
-                  </Link>
+                  <Link href="/admission">Practical Teaching Experience</Link>
                 </li>
                 <li>
-                  <Link
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                    }}
-                  >
-                    Diversity Comprehension
-                  </Link>
+                  <Link href="/admission">Diversity Comprehension</Link>
                 </li>
               </ul>
             </div>
@@ -149,7 +116,10 @@ const Footer = () => {
             <div className="col-lg-8">
               <ul className="bottom-footer-list">
                 <li>
-                  <p>© B'Ed Admission in Bangalore design by appaddindia.com</p>
+                  <a href="https://www.appaddindia.com/">
+                    © B.Ed Admission in Bangalore Univercity design by
+                    appaddindia.com
+                  </a>
                 </li>
               </ul>
             </div>
