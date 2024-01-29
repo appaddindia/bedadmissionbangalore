@@ -72,10 +72,14 @@ const Header = ({ headerBtn }) => {
               <ul className="wsmenu-list">
                 {/* SIMPLE NAVIGATION LINK */}
                 <li className="nl-simple">
-                  <Link href="/">Home</Link>
+                  <Link href="/" onClick={() => onClick()}>
+                    Home
+                  </Link>
                 </li>
                 <li className="nl-simple">
-                  <Link href="/about">About</Link>
+                  <Link href="/about" onClick={() => onClick()}>
+                    About
+                  </Link>
                 </li>
                 {/* DROPDOWN MENU */}
 
@@ -86,14 +90,20 @@ const Header = ({ headerBtn }) => {
                 {/* MEGAMENU */}
                 {/* SIMPLE NAVIGATION LINK */}
                 <li className="nl-simple">
-                  <Link href="/admission">B.Ed Admission</Link>
+                  <Link href="/admission" onClick={() => onClick()}>
+                    B.Ed Admission
+                  </Link>
                 </li>
                 <li className="nl-simple">
-                  <Link href="/scholarship">Scholarship</Link>
+                  <Link href="/scholarship" onClick={() => onClick()}>
+                    Scholarship
+                  </Link>
                 </li>
                 {/* SIMPLE NAVIGATION LINK */}
                 <li className="nl-simple">
-                  <Link href="/contacts">Contacts</Link>
+                  <Link href="/contacts" onClick={() => onClick()}>
+                    Contacts
+                  </Link>
                 </li>
                 <li className="nl-simple">
                   <a

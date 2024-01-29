@@ -46,12 +46,9 @@ const contacts = () => {
                       House, Koramangala, Bengaluru, Karnataka 560 095
                     </p>
                     {/* Button */}
-                    <Link
-                      href="/contacts"
-                      className="btn btn-tra-grey rose-hover"
-                    >
+                    <a href="/contacts" className="btn btn-tra-grey rose-hover">
                       Find Location On Map
-                    </Link>
+                    </a>
                   </div>
                 </div>
                 {/* CONTACT BOX #2 */}
