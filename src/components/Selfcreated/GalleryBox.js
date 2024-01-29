@@ -17,10 +17,6 @@ const GalleryBox = () => {
   ];
   return (
     <section
-      style={{
-        backgroundImage:
-          "linear-gradient(#f8f9fbe1,#f8f9fbe1), url(images/banner1.jpg)",
-      }}
       id="courses-3"
       className="bg-lightgrey wide-60 courses-section division"
     >

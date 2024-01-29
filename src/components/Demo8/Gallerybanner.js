@@ -5,7 +5,7 @@ function Gallerybanner() {
     <section
       style={{
         padding: "100px 0px 125px",
-        backgroundImage: "url(../images/contactbanner.jpg)",
+        backgroundImage: "url(../images/balleryim.jpg)",
       }}
       id="hero-8"
       className="bg-scroll hero-section division"
@@ -19,7 +19,7 @@ function Gallerybanner() {
               className="hero-txt text-center white-color"
             >
               {/* Title */}
-              <h4 className="h4-xs">Contact Us</h4>
+              <h4 className="h4-xs">Gallery</h4>
               <h2 style={{ fontSize: "36px" }} className="h2-sm">
                 Dedicated to Educational Advancement: Extensive B.Ed. Programs.
               </h2>
