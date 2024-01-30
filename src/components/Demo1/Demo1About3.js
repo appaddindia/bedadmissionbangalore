@@ -24,7 +24,7 @@ const Demo1About3 = () => {
               <div className="txt-block pc-25">
                 {/* Title */}
                 <h3 className="h3-sm">
-                  Enrolling in Bangalore Univercity B.Ed. program.
+                  Enrolling in Bangalore University B.Ed. program.
                 </h3>
                 {/* Text */}
                 <p>

@@ -26,7 +26,7 @@ const Demo1Banner3 = () => {
                 {/* Title */}
                 <h4 className="h4-xs">
                   Learn something new every day with B.Ed Admission in Bangalore
-                  Univercity
+                  University
                 </h4>
                 {/* Button */}
                 <a

@@ -57,7 +57,7 @@
               (0, o.jsxs)(r(), {
                 children: [
                   (0, o.jsx)("title", {
-                    children: "B.Ed Admission in Bangalore Univercity",
+                    children: "B.Ed Admission in Bangalore University",
                   }),
                   (0, o.jsx)("link", {
                     rel: "shortcut icon",

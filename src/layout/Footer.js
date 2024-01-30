@@ -128,7 +128,7 @@ const Footer = () => {
               <ul className="bottom-footer-list">
                 <li>
                   <a href="https://www.appaddindia.com/">
-                    © B.Ed Admission in Bangalore Univercity design by
+                    © B.Ed Admission in Bangalore University design by
                     appaddindia.com
                   </a>
                 </li>

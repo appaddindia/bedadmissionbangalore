@@ -129,7 +129,7 @@
                             (0, i.jsx)("h3", {
                               className: "h3-sm",
                               children:
-                                "Enrolling in Bangalore Univercity B.Ed. program.",
+                                "Enrolling in Bangalore University B.Ed. program.",
                             }),
                             (0, i.jsx)("p", {
                               children:

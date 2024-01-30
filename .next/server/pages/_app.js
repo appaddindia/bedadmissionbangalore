@@ -1,1 +1,117 @@
-(()=>{var e={};e.id=2888,e.ids=[2888],e.modules={8722:()=>{},968:e=>{"use strict";e.exports=require("next/head")},6689:e=>{"use strict";e.exports=require("react")},997:e=>{"use strict";e.exports=require("react/jsx-runtime")}};var r=require("../webpack-runtime.js");r.C(e);var __webpack_exec__=e=>r(r.s=e),s=r.X(0,[3921],()=>__webpack_exec__(3921));module.exports=s})();
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+(() => {
+  var exports = {};
+  exports.id = "pages/_app";
+  exports.ids = ["pages/_app"];
+  exports.modules = {
+    /***/ "./pages/_app.js":
+      /*!***********************!*\
+  !*** ./pages/_app.js ***!
+  \***********************/
+      /***/ (
+        __unused_webpack_module,
+        __webpack_exports__,
+        __webpack_require__
+      ) => {
+        "use strict";
+        eval(
+          '__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "react/jsx-dev-runtime");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ "next/head");\n/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ "react");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var swiper_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! swiper/css */ "./node_modules/swiper/swiper.min.css");\n/* harmony import */ var swiper_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(swiper_css__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _src_context_video__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../src/context/video */ "./src/context/video.js");\n/* harmony import */ var _src_layout_PreLoader__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../src/layout/PreLoader */ "./src/layout/PreLoader.js");\n/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../styles/globals.css */ "./styles/globals.css");\n/* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_styles_globals_css__WEBPACK_IMPORTED_MODULE_6__);\n\n\n\n\n\n\n\nfunction MyApp({ Component, pageProps }) {\n    const [loader, setLoader] = (0,react__WEBPACK_IMPORTED_MODULE_2__.useState)(true);\n    (0,react__WEBPACK_IMPORTED_MODULE_2__.useEffect)(()=>{\n        setTimeout(()=>{\n            setLoader(false);\n        }, 2000);\n    }, []);\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_src_context_video__WEBPACK_IMPORTED_MODULE_4__["default"], {\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_head__WEBPACK_IMPORTED_MODULE_1___default()), {\n                children: [\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("title", {\n                        children: "B.Ed Admission in Bangalore University"\n                    }, void 0, false, {\n                        fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\pages\\\\_app.js",\n                        lineNumber: 18,\n                        columnNumber: 9\n                    }, this),\n                    /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("link", {\n                        rel: "shortcut icon",\n                        href: "images/logo.png",\n                        type: "images/logo.png"\n                    }, void 0, false, {\n                        fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\pages\\\\_app.js",\n                        lineNumber: 19,\n                        columnNumber: 9\n                    }, this)\n                ]\n            }, void 0, true, {\n                fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\pages\\\\_app.js",\n                lineNumber: 17,\n                columnNumber: 7\n            }, this),\n            loader && /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_src_layout_PreLoader__WEBPACK_IMPORTED_MODULE_5__["default"], {}, void 0, false, {\n                fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\pages\\\\_app.js",\n                lineNumber: 25,\n                columnNumber: 18\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {\n                className: "wsmenucontainer",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(Component, {\n                    ...pageProps\n                }, void 0, false, {\n                    fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\pages\\\\_app.js",\n                    lineNumber: 27,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\pages\\\\_app.js",\n                lineNumber: 26,\n                columnNumber: 7\n            }, this)\n        ]\n    }, void 0, true, {\n        fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\pages\\\\_app.js",\n        lineNumber: 16,\n        columnNumber: 5\n    }, this);\n}\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (MyApp);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9fYXBwLmpzIiwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7Ozs7O0FBQTZCO0FBQ2U7QUFDeEI7QUFDMEI7QUFDRTtBQUNqQjtBQUUvQixTQUFTSyxNQUFNLEVBQUVDLFNBQVMsRUFBRUMsU0FBUyxFQUFFO0lBQ3JDLE1BQU0sQ0FBQ0MsUUFBUUMsVUFBVSxHQUFHUCwrQ0FBUUEsQ0FBQztJQUNyQ0QsZ0RBQVNBLENBQUM7UUFDUlMsV0FBVztZQUNURCxVQUFVO1FBQ1osR0FBRztJQUNMLEdBQUcsRUFBRTtJQUNMLHFCQUNFLDhEQUFDTiwwREFBVUE7OzBCQUNULDhEQUFDSCxrREFBSUE7O2tDQUNILDhEQUFDVztrQ0FBTTs7Ozs7O2tDQUNQLDhEQUFDQzt3QkFDQ0MsS0FBSTt3QkFDSkMsTUFBSzt3QkFDTEMsTUFBSzs7Ozs7Ozs7Ozs7O1lBR1JQLHdCQUFVLDhEQUFDSiw2REFBU0E7Ozs7OzBCQUNyQiw4REFBQ1k7Z0JBQUlDLFdBQVU7MEJBQ2IsNEVBQUNYO29CQUFXLEdBQUdDLFNBQVM7Ozs7Ozs7Ozs7Ozs7Ozs7O0FBSWhDO0FBRUEsaUVBQWVGLEtBQUtBLEVBQUMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9ldHJlZWtzLy4vcGFnZXMvX2FwcC5qcz9lMGFkIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBIZWFkIGZyb20gXCJuZXh0L2hlYWRcIjtcclxuaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gXCJyZWFjdFwiO1xyXG5pbXBvcnQgXCJzd2lwZXIvY3NzXCI7XHJcbmltcG9ydCBWaWRlb1N0YXRlIGZyb20gXCIuLi9zcmMvY29udGV4dC92aWRlb1wiO1xyXG5pbXBvcnQgUHJlTG9hZGVyIGZyb20gXCIuLi9zcmMvbGF5b3V0L1ByZUxvYWRlclwiO1xyXG5pbXBvcnQgXCIuLi9zdHlsZXMvZ2xvYmFscy5jc3NcIjtcclxuXHJcbmZ1bmN0aW9uIE15QXBwKHsgQ29tcG9uZW50LCBwYWdlUHJvcHMgfSkge1xyXG4gIGNvbnN0IFtsb2FkZXIsIHNldExvYWRlcl0gPSB1c2VTdGF0ZSh0cnVlKTtcclxuICB1c2VFZmZlY3QoKCkgPT4ge1xyXG4gICAgc2V0VGltZW91dCgoKSA9PiB7XHJcbiAgICAgIHNldExvYWRlcihmYWxzZSk7XHJcbiAgICB9LCAyMDAwKTtcclxuICB9LCBbXSk7XHJcbiAgcmV0dXJuIChcclxuICAgIDxWaWRlb1N0YXRlPlxyXG4gICAgICA8SGVhZD5cclxuICAgICAgICA8dGl0bGU+Qi5FZCBBZG1pc3Npb24gaW4gQmFuZ2Fsb3JlIFVuaXZlcmNpdHk8L3RpdGxlPlxyXG4gICAgICAgIDxsaW5rXHJcbiAgICAgICAgICByZWw9XCJzaG9ydGN1dCBpY29uXCJcclxuICAgICAgICAgIGhyZWY9XCJpbWFnZXMvbG9nby5wbmdcIlxyXG4gICAgICAgICAgdHlwZT1cImltYWdlcy9sb2dvLnBuZ1wiXHJcbiAgICAgICAgLz5cclxuICAgICAgPC9IZWFkPlxyXG4gICAgICB7bG9hZGVyICYmIDxQcmVMb2FkZXIgLz59XHJcbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwid3NtZW51Y29udGFpbmVyXCI+XHJcbiAgICAgICAgPENvbXBvbmVudCB7Li4ucGFnZVByb3BzfSAvPlxyXG4gICAgICA8L2Rpdj5cclxuICAgIDwvVmlkZW9TdGF0ZT5cclxuICApO1xyXG59XHJcblxyXG5leHBvcnQgZGVmYXVsdCBNeUFwcDtcclxuIl0sIm5hbWVzIjpbIkhlYWQiLCJ1c2VFZmZlY3QiLCJ1c2VTdGF0ZSIsIlZpZGVvU3RhdGUiLCJQcmVMb2FkZXIiLCJNeUFwcCIsIkNvbXBvbmVudCIsInBhZ2VQcm9wcyIsImxvYWRlciIsInNldExvYWRlciIsInNldFRpbWVvdXQiLCJ0aXRsZSIsImxpbmsiLCJyZWwiLCJocmVmIiwidHlwZSIsImRpdiIsImNsYXNzTmFtZSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./pages/_app.js\n'
+        );
+
+        /***/
+      },
+
+    /***/ "./src/context/video.js":
+      /*!******************************!*\
+  !*** ./src/context/video.js ***!
+  \******************************/
+      /***/ (
+        __unused_webpack_module,
+        __webpack_exports__,
+        __webpack_require__
+      ) => {
+        "use strict";
+        eval(
+          '__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   VideoContext: () => (/* binding */ VideoContext),\n/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "react/jsx-dev-runtime");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n\nconst type = {\n    VIDEO: "VIDEO"\n};\n\nconst VideoContext = /*#__PURE__*/ (0,react__WEBPACK_IMPORTED_MODULE_1__.createContext)();\nconst videoReducer = (state, action)=>{\n    switch(action.type){\n        case type.VIDEO:\n            return {\n                ...state,\n                video: action.payload\n            };\n        default:\n            return state;\n    }\n};\nconst VideoState = (props)=>{\n    const initialState = {\n        video: {\n            show: false,\n            videoId: null\n        }\n    };\n    const [state, dispatch] = (0,react__WEBPACK_IMPORTED_MODULE_1__.useReducer)(videoReducer, initialState);\n    const showVideo = (id)=>{\n        dispatch({\n            type: type.VIDEO,\n            payload: {\n                show: true,\n                id\n            }\n        });\n    };\n    const hideVideo = ()=>{\n        dispatch({\n            type: type.VIDEO,\n            payload: {\n                show: false,\n                videoId: null\n            }\n        });\n    };\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(VideoContext.Provider, {\n        value: {\n            showVideo: showVideo,\n            hideVideo: hideVideo,\n            video: state.video\n        },\n        children: props.children\n    }, void 0, false, {\n        fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\src\\\\context\\\\video.js",\n        lineNumber: 42,\n        columnNumber: 5\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (VideoState);\n\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvY29udGV4dC92aWRlby5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7O0FBQUEsTUFBTUEsT0FBTztJQUNYQyxPQUFPO0FBQ1Q7QUFFa0Q7QUFDbEQsTUFBTUcsNkJBQWVGLG9EQUFhQTtBQUVsQyxNQUFNRyxlQUFlLENBQUNDLE9BQU9DO0lBQzNCLE9BQVFBLE9BQU9QLElBQUk7UUFDakIsS0FBS0EsS0FBS0MsS0FBSztZQUNiLE9BQU87Z0JBQ0wsR0FBR0ssS0FBSztnQkFDUkUsT0FBT0QsT0FBT0UsT0FBTztZQUN2QjtRQUVGO1lBQ0UsT0FBT0g7SUFDWDtBQUNGO0FBRUEsTUFBTUksYUFBYSxDQUFDQztJQUNsQixNQUFNQyxlQUFlO1FBQ25CSixPQUFPO1lBQUVLLE1BQU07WUFBT0MsU0FBUztRQUFLO0lBQ3RDO0lBQ0EsTUFBTSxDQUFDUixPQUFPUyxTQUFTLEdBQUdaLGlEQUFVQSxDQUFDRSxjQUFjTztJQUVuRCxNQUFNSSxZQUFZLENBQUNDO1FBQ2pCRixTQUFTO1lBQ1BmLE1BQU1BLEtBQUtDLEtBQUs7WUFDaEJRLFNBQVM7Z0JBQUVJLE1BQU07Z0JBQU1JO1lBQUc7UUFDNUI7SUFDRjtJQUVBLE1BQU1DLFlBQVk7UUFDaEJILFNBQVM7WUFDUGYsTUFBTUEsS0FBS0MsS0FBSztZQUNoQlEsU0FBUztnQkFBRUksTUFBTTtnQkFBT0MsU0FBUztZQUFLO1FBQ3hDO0lBQ0Y7SUFFQSxxQkFDRSw4REFBQ1YsYUFBYWUsUUFBUTtRQUNwQkMsT0FBTztZQUNMSixXQUFXQTtZQUNYRSxXQUFXQTtZQUNYVixPQUFPRixNQUFNRSxLQUFLO1FBQ3BCO2tCQUVDRyxNQUFNVSxRQUFROzs7Ozs7QUFHckI7QUFFQSxpRUFBZVgsVUFBVUEsRUFBQztBQUVGIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vZXRyZWVrcy8uL3NyYy9jb250ZXh0L3ZpZGVvLmpzPzZjMTUiXSwic291cmNlc0NvbnRlbnQiOlsiY29uc3QgdHlwZSA9IHtcclxuICBWSURFTzogXCJWSURFT1wiLFxyXG59O1xyXG5cclxuaW1wb3J0IHsgY3JlYXRlQ29udGV4dCwgdXNlUmVkdWNlciB9IGZyb20gXCJyZWFjdFwiO1xyXG5jb25zdCBWaWRlb0NvbnRleHQgPSBjcmVhdGVDb250ZXh0KCk7XHJcblxyXG5jb25zdCB2aWRlb1JlZHVjZXIgPSAoc3RhdGUsIGFjdGlvbikgPT4ge1xyXG4gIHN3aXRjaCAoYWN0aW9uLnR5cGUpIHtcclxuICAgIGNhc2UgdHlwZS5WSURFTzpcclxuICAgICAgcmV0dXJuIHtcclxuICAgICAgICAuLi5zdGF0ZSxcclxuICAgICAgICB2aWRlbzogYWN0aW9uLnBheWxvYWQsXHJcbiAgICAgIH07XHJcblxyXG4gICAgZGVmYXVsdDpcclxuICAgICAgcmV0dXJuIHN0YXRlO1xyXG4gIH1cclxufTtcclxuXHJcbmNvbnN0IFZpZGVvU3RhdGUgPSAocHJvcHMpID0+IHtcclxuICBjb25zdCBpbml0aWFsU3RhdGUgPSB7XHJcbiAgICB2aWRlbzogeyBzaG93OiBmYWxzZSwgdmlkZW9JZDogbnVsbCB9LFxyXG4gIH07XHJcbiAgY29uc3QgW3N0YXRlLCBkaXNwYXRjaF0gPSB1c2VSZWR1Y2VyKHZpZGVvUmVkdWNlciwgaW5pdGlhbFN0YXRlKTtcclxuXHJcbiAgY29uc3Qgc2hvd1ZpZGVvID0gKGlkKSA9PiB7XHJcbiAgICBkaXNwYXRjaCh7XHJcbiAgICAgIHR5cGU6IHR5cGUuVklERU8sXHJcbiAgICAgIHBheWxvYWQ6IHsgc2hvdzogdHJ1ZSwgaWQgfSxcclxuICAgIH0pO1xyXG4gIH07XHJcblxyXG4gIGNvbnN0IGhpZGVWaWRlbyA9ICgpID0+IHtcclxuICAgIGRpc3BhdGNoKHtcclxuICAgICAgdHlwZTogdHlwZS5WSURFTyxcclxuICAgICAgcGF5bG9hZDogeyBzaG93OiBmYWxzZSwgdmlkZW9JZDogbnVsbCB9LFxyXG4gICAgfSk7XHJcbiAgfTtcclxuXHJcbiAgcmV0dXJuIChcclxuICAgIDxWaWRlb0NvbnRleHQuUHJvdmlkZXJcclxuICAgICAgdmFsdWU9e3tcclxuICAgICAgICBzaG93VmlkZW86IHNob3dWaWRlbyxcclxuICAgICAgICBoaWRlVmlkZW86IGhpZGVWaWRlbyxcclxuICAgICAgICB2aWRlbzogc3RhdGUudmlkZW8sXHJcbiAgICAgIH19XHJcbiAgICA+XHJcbiAgICAgIHtwcm9wcy5jaGlsZHJlbn1cclxuICAgIDwvVmlkZW9Db250ZXh0LlByb3ZpZGVyPlxyXG4gICk7XHJcbn07XHJcblxyXG5leHBvcnQgZGVmYXVsdCBWaWRlb1N0YXRlO1xyXG5cclxuZXhwb3J0IHsgVmlkZW9Db250ZXh0IH07XHJcbiJdLCJuYW1lcyI6WyJ0eXBlIiwiVklERU8iLCJjcmVhdGVDb250ZXh0IiwidXNlUmVkdWNlciIsIlZpZGVvQ29udGV4dCIsInZpZGVvUmVkdWNlciIsInN0YXRlIiwiYWN0aW9uIiwidmlkZW8iLCJwYXlsb2FkIiwiVmlkZW9TdGF0ZSIsInByb3BzIiwiaW5pdGlhbFN0YXRlIiwic2hvdyIsInZpZGVvSWQiLCJkaXNwYXRjaCIsInNob3dWaWRlbyIsImlkIiwiaGlkZVZpZGVvIiwiUHJvdmlkZXIiLCJ2YWx1ZSIsImNoaWxkcmVuIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/context/video.js\n'
+        );
+
+        /***/
+      },
+
+    /***/ "./src/layout/PreLoader.js":
+      /*!*********************************!*\
+  !*** ./src/layout/PreLoader.js ***!
+  \*********************************/
+      /***/ (
+        __unused_webpack_module,
+        __webpack_exports__,
+        __webpack_require__
+      ) => {
+        "use strict";
+        eval(
+          '__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "react/jsx-dev-runtime");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n\nconst PreLoader = ()=>{\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {\n        id: "loader-wrapper",\n        children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {\n            id: "loading",\n            children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {\n                id: "loading-center",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {\n                    className: "cssload-loading",\n                    children: [\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("i", {}, void 0, false, {\n                            fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\src\\\\layout\\\\PreLoader.js",\n                            lineNumber: 7,\n                            columnNumber: 13\n                        }, undefined),\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("i", {}, void 0, false, {\n                            fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\src\\\\layout\\\\PreLoader.js",\n                            lineNumber: 8,\n                            columnNumber: 13\n                        }, undefined),\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("i", {}, void 0, false, {\n                            fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\src\\\\layout\\\\PreLoader.js",\n                            lineNumber: 9,\n                            columnNumber: 13\n                        }, undefined),\n                        /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("i", {}, void 0, false, {\n                            fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\src\\\\layout\\\\PreLoader.js",\n                            lineNumber: 10,\n                            columnNumber: 13\n                        }, undefined)\n                    ]\n                }, void 0, true, {\n                    fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\src\\\\layout\\\\PreLoader.js",\n                    lineNumber: 6,\n                    columnNumber: 11\n                }, undefined)\n            }, void 0, false, {\n                fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\src\\\\layout\\\\PreLoader.js",\n                lineNumber: 5,\n                columnNumber: 9\n            }, undefined)\n        }, void 0, false, {\n            fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\src\\\\layout\\\\PreLoader.js",\n            lineNumber: 4,\n            columnNumber: 7\n        }, undefined)\n    }, void 0, false, {\n        fileName: "D:\\\\websites\\\\bedadmissionbangalore\\\\etreeks-online-courses-education-react-js-them-2023-11-27-05-10-21-utc\\\\packages\\\\eTreeks\\\\src\\\\layout\\\\PreLoader.js",\n        lineNumber: 3,\n        columnNumber: 5\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (PreLoader);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvbGF5b3V0L1ByZUxvYWRlci5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7O0FBQUEsTUFBTUEsWUFBWTtJQUNoQixxQkFDRSw4REFBQ0M7UUFBSUMsSUFBRztrQkFDTiw0RUFBQ0Q7WUFBSUMsSUFBRztzQkFDTiw0RUFBQ0Q7Z0JBQUlDLElBQUc7MEJBQ04sNEVBQUNEO29CQUFJRSxXQUFVOztzQ0FDYiw4REFBQ0M7Ozs7O3NDQUNELDhEQUFDQTs7Ozs7c0NBQ0QsOERBQUNBOzs7OztzQ0FDRCw4REFBQ0E7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O0FBTWI7QUFFQSxpRUFBZUosU0FBU0EsRUFBQyIsInNvdXJjZXMiOlsid2VicGFjazovL2V0cmVla3MvLi9zcmMvbGF5b3V0L1ByZUxvYWRlci5qcz8zNjg1Il0sInNvdXJjZXNDb250ZW50IjpbImNvbnN0IFByZUxvYWRlciA9ICgpID0+IHtcclxuICByZXR1cm4gKFxyXG4gICAgPGRpdiBpZD1cImxvYWRlci13cmFwcGVyXCI+XHJcbiAgICAgIDxkaXYgaWQ9XCJsb2FkaW5nXCI+XHJcbiAgICAgICAgPGRpdiBpZD1cImxvYWRpbmctY2VudGVyXCI+XHJcbiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNzc2xvYWQtbG9hZGluZ1wiPlxyXG4gICAgICAgICAgICA8aT48L2k+XHJcbiAgICAgICAgICAgIDxpPjwvaT5cclxuICAgICAgICAgICAgPGk+PC9pPlxyXG4gICAgICAgICAgICA8aT48L2k+XHJcbiAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICA8L2Rpdj5cclxuICAgICAgPC9kaXY+XHJcbiAgICA8L2Rpdj5cclxuICApO1xyXG59O1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgUHJlTG9hZGVyO1xyXG4iXSwibmFtZXMiOlsiUHJlTG9hZGVyIiwiZGl2IiwiaWQiLCJjbGFzc05hbWUiLCJpIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/layout/PreLoader.js\n'
+        );
+
+        /***/
+      },
+
+    /***/ "./styles/globals.css":
+      /*!****************************!*\
+  !*** ./styles/globals.css ***!
+  \****************************/
+      /***/ () => {
+        /***/
+      },
+
+    /***/ "next/head":
+      /*!****************************!*\
+  !*** external "next/head" ***!
+  \****************************/
+      /***/ (module) => {
+        "use strict";
+        module.exports = require("next/head");
+
+        /***/
+      },
+
+    /***/ react:
+      /*!************************!*\
+  !*** external "react" ***!
+  \************************/
+      /***/ (module) => {
+        "use strict";
+        module.exports = require("react");
+
+        /***/
+      },
+
+    /***/ "react/jsx-dev-runtime":
+      /*!****************************************!*\
+  !*** external "react/jsx-dev-runtime" ***!
+  \****************************************/
+      /***/ (module) => {
+        "use strict";
+        module.exports = require("react/jsx-dev-runtime");
+
+        /***/
+      },
+  };
+  // load runtime
+  var __webpack_require__ = require("../webpack-runtime.js");
+  __webpack_require__.C(exports);
+  var __webpack_exec__ = (moduleId) =>
+    __webpack_require__((__webpack_require__.s = moduleId));
+  var __webpack_exports__ = __webpack_require__.X(
+    0,
+    ["vendor-chunks/swiper"],
+    () => __webpack_exec__("./pages/_app.js")
+  );
+  module.exports = __webpack_exports__;
+})();
