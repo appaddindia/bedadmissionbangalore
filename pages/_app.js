@@ -15,6 +15,10 @@ function MyApp({ Component, pageProps }) {
   return (
     <VideoState>
       <Head>
+        <meta
+          name="google-site-verification"
+          content="googlee9727d745293ef4b"
+        />
         <title>B.Ed Admission in Bangalore University</title>
         <link
           rel="shortcut icon"
