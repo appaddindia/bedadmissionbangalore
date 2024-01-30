@@ -56,7 +56,7 @@ const Demo1About2 = () => {
                 className="btn btn-tra-rose"
                 target="_blank"
               >
-                Contact by WhatsApp
+                WhatsApp Know
               </a>
             </div>
           </div>

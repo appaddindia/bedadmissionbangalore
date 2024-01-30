@@ -81,7 +81,7 @@
                           href: "/demo-1",
                           className: "btn btn-tra-rose",
                           target: "_blank",
-                          children: "Contact by WhatsApp",
+                          children: "WhatsApp Know",
                         }),
                       ],
                     }),

@@ -76,7 +76,7 @@
                         href: "https://api.whatsapp.com/send?phone=9538861888&text=Hello",
                         className: "btn btn-tra-rose",
                         target: "_blank",
-                        children: "Contact by WhatsApp",
+                        children: "WhatsApp Know",
                       }),
                     ],
                   }),
