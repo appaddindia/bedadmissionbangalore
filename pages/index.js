@@ -1,3 +1,4 @@
+import Head from "next/head";
 import Demo1About1 from "../src/components/Demo1/Demo1About1";
 import Demo1About2 from "../src/components/Demo1/Demo1About2";
 import Demo1About3 from "../src/components/Demo1/Demo1About3";
@@ -19,6 +20,12 @@ import Layout from "../src/layout/Layout";
 const index = () => {
   return (
     <Layout>
+      <Head>
+        <meta
+          name="google-site-verification"
+          content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
+        />
+      </Head>
       {/* <Demo1Hero1 /> */}
       <Slider />
       <Demo1About1 />

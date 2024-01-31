@@ -6,9 +6,16 @@ import Aboutbanner2 from "../src/components/About/Aboutbanner2";
 import Demo8Hero8 from "../src/components/Demo8/Demo8Hero8";
 import Demo8Hboxes2 from "../src/components/Demo8/Demo8Hboxes2";
 import NewBannercontact from "../src/components/Demo8/NewBannercontact";
+import Head from "next/head";
 const contacts = () => {
   return (
     <Layout headerBtn>
+      <Head>
+        <meta
+          name="google-site-verification"
+          content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
+        />
+      </Head>
       <NewBannercontact />
       {/* END HERO-8 */}
       {/* HERO BOXES-2

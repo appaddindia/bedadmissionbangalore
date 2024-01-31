@@ -21,10 +21,17 @@ import Demo1Video3 from "../src/components/Demo1/Demo1Video3";
 import Demo1About3 from "../src/components/Demo1/Demo1About3";
 import Demo1Banner3 from "../src/components/Demo1/Demo1Banner3";
 import Aboutinfo from "../src/components/Selfcreated/Aboutinfo";
+import Head from "next/head";
 
 const about = () => {
   return (
     <Layout>
+      <Head>
+        <meta
+          name="google-site-verification"
+          content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
+        />
+      </Head>
       <Demo8Hero8 />
       {/* END HERO-8 */}
       {/* HERO BOXES-2

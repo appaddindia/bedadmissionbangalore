@@ -9,10 +9,17 @@ import Demo1Banner3 from "../src/components/Demo1/Demo1Banner3";
 import Demo1News2 from "../src/components/Demo1/Demo1News2";
 import CategoriesListCategories2 from "../src/components/Categories Listing/CategoriesListCategories2";
 import CategoriesListAbout4 from "../src/components/Categories Listing/CategoriesListAbout4";
+import Head from "next/head";
 
 function scholarship() {
   return (
     <Layout>
+      <Head>
+        <meta
+          name="google-site-verification"
+          content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
+        />
+      </Head>
       <ScholarshipBanner />
       <div style={{ marginTop: "-20px" }}>
         <Demo1Video3 />
