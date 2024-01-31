@@ -17,7 +17,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <meta
           name="google-site-verification"
-          content="googlee9727d745293ef4b"
+          content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
         />
         <title>B.Ed Admission in Bangalore University</title>
         <link
