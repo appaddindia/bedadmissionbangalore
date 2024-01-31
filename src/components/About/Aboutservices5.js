@@ -2,19 +2,24 @@ import React from "react";
 
 const Aboutservices5 = () => {
   return (
-    <section id="services-5" className="wide-60 services-section division">
+    <section
+      style={{ marginTop: "-50px" }}
+      id="services-5"
+      className="wide-60 services-section division"
+    >
       <div className="container">
         {/* SECTION TITLE */}
         <div className="row">
           <div className="col-md-12">
-            <div className="section-title title-centered mb-60">
+            <div className="section-title title-centered mb-50">
               {/* Title 	*/}
-              <h3 className="h3-sm">Unleashing Educational Excellence</h3>
+              <h3 className="h3-sm">Unleashing Excellence In Education.</h3>
 
               <p className="p-md">
-                Pursuing a Bachelor of Education (B.Ed) degree offers several
-                advantages for individuals aspiring to become educators. Here
-                are eight benefits of undertaking a B.Ed program
+                Embarking on a Bachelor of Education (B.Ed) degree presents
+                numerous advantages for those with aspirations of entering the
+                field of education. Here are eight benefits associated with
+                enrolling in a B.Ed program.
               </p>
             </div>
           </div>
@@ -31,12 +36,12 @@ const Aboutservices5 = () => {
               />
 
               <div className="sbox-5-txt">
-                <h5 className="h5-md">Specialized Knowledge</h5>
+                <h5 className="h5-md">Expertise in a specific field</h5>
 
                 <p className="grey-color">
-                  The program equips students with in-depth knowledge of
+                  The program provides students with profound insights into
                   educational theories, teaching methodologies, and strategies,
-                  enabling them to develop effective teaching practices.
+                  empowering them to cultivate effective teaching practices.
                 </p>
               </div>
             </div>
@@ -53,12 +58,13 @@ const Aboutservices5 = () => {
               />
 
               <div className="sbox-5-txt">
-                <h5 className="h5-md">Pedagogical Skills Development</h5>
+                <h5 className="h5-md">Enhancement of pedagogical skills</h5>
 
                 <p className="grey-color">
-                  B.Ed programs focus on the development of pedagogical skills,
-                  including lesson planning, classroom management, and the
-                  ability to create engaging and effective learning experiences.
+                  B.Ed programs emphasize honing pedagogical skills,
+                  encompassing aspects such as lesson planning, classroom
+                  management, and the capacity to craft engaging and effective
+                  learning experiences.
                 </p>
               </div>
             </div>
@@ -75,12 +81,13 @@ const Aboutservices5 = () => {
               />
 
               <div className="sbox-5-txt">
-                <h5 className="h5-md">Practical Teaching Experience</h5>
+                <h5 className="h5-md">Hands-on teaching practice</h5>
 
                 <p className="grey-color">
-                  Many B.Ed programs include practical teaching experiences,
-                  such as internships or teaching practicums, allowing students
-                  to apply theoretical knowledge in real classroom settings.
+                  Several B.Ed programs incorporate practical teaching
+                  experiences, such as internships or teaching practicums,
+                  enabling students to apply theoretical knowledge in real
+                  classroom settings.
                 </p>
               </div>
             </div>
@@ -97,12 +104,13 @@ const Aboutservices5 = () => {
               />
 
               <div className="sbox-5-txt">
-                <h5 className="h5-md">Diversity Comprehension</h5>
+                <h5 className="h5-md">Understanding diversity</h5>
 
                 <p className="grey-color">
-                  B.Ed programs emphasize understanding and addressing the needs
-                  of diverse learners, including those with different learning
-                  styles, abilities, and cultural backgrounds.
+                  B.Ed programs underscore the importance of comprehending and
+                  addressing the needs of diverse learners, encompassing those
+                  with various learning styles, abilities, and cultural
+                  backgrounds.
                 </p>
               </div>
             </div>
@@ -119,13 +127,13 @@ const Aboutservices5 = () => {
               />
 
               <div className="sbox-5-txt">
-                <h5 className="h5-md">Professional Networking</h5>
+                <h5 className="h5-md">Building professional connections</h5>
 
                 <p className="grey-color">
-                  Students in B.Ed programs have opportunities to network with
-                  educators, administrators, and fellow students, building
-                  connections that can be valuable throughout their teaching
-                  careers.
+                  Students in B.Ed programs have opportunities to build
+                  professional connections with educators, administrators, and
+                  fellow students, establishing valuable networks that can prove
+                  beneficial throughout their teaching careers.
                 </p>
               </div>
             </div>
@@ -142,13 +150,13 @@ const Aboutservices5 = () => {
               />
 
               <div className="sbox-5-txt">
-                <h5 className="h5-md">Career Advancement</h5>
+                <h5 className="h5-md">Progression in one's career</h5>
 
                 <p className="grey-color">
-                  B.Ed is often a prerequisite for obtaining teaching positions
-                  in schools, and having this degree can open doors to various
-                  career advancement opportunities within the field of
-                  education.
+                  Possessing a B.Ed degree is frequently a requirement for
+                  securing teaching positions in schools, and obtaining this
+                  qualification can unlock diverse opportunities for career
+                  advancement within the education sector.
                 </p>
               </div>
             </div>
