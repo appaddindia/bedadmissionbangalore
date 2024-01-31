@@ -72,12 +72,20 @@ const Header = ({ headerBtn }) => {
               <ul className="wsmenu-list">
                 {/* SIMPLE NAVIGATION LINK */}
                 <li className="nl-simple">
-                  <Link href="/" onClick={() => onClick()}>
+                  <Link
+                    style={{ paddingLeft: "5px", paddingRight: "5px" }}
+                    href="/"
+                    onClick={() => onClick()}
+                  >
                     Home
                   </Link>
                 </li>
                 <li className="nl-simple">
-                  <Link href="/about" onClick={() => onClick()}>
+                  <Link
+                    style={{ paddingLeft: "5px", paddingRight: "5px" }}
+                    href="/about"
+                    onClick={() => onClick()}
+                  >
                     About
                   </Link>
                 </li>
@@ -90,17 +98,37 @@ const Header = ({ headerBtn }) => {
                 {/* MEGAMENU */}
                 {/* SIMPLE NAVIGATION LINK */}
                 <li className="nl-simple">
-                  <Link href="/admission" onClick={() => onClick()}>
+                  <Link
+                    style={{ paddingLeft: "5px", paddingRight: "5px" }}
+                    href="/admission"
+                    onClick={() => onClick()}
+                  >
                     B.Ed Admission
                   </Link>
                 </li>
                 <li className="nl-simple">
-                  <Link href="/scholarship" onClick={() => onClick()}>
+                  <Link
+                    style={{ paddingLeft: "5px", paddingRight: "5px" }}
+                    href="/scholarship"
+                    onClick={() => onClick()}
+                  >
                     Scholarship
                   </Link>
                 </li>
-                {/* SIMPLE NAVIGATION LINK */}
                 <li className="nl-simple">
+                  <Link
+                    style={{ paddingLeft: "5px", paddingRight: "5px" }}
+                    href="/gallery"
+                    onClick={() => onClick()}
+                  >
+                    Gallery
+                  </Link>
+                </li>
+                {/* SIMPLE NAVIGATION LINK */}
+                <li
+                  style={{ paddingLeft: "5px", paddingRight: "5px" }}
+                  className="nl-simple"
+                >
                   <Link href="/contacts" onClick={() => onClick()}>
                     Contacts
                   </Link>
