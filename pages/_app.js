@@ -4,6 +4,7 @@ import "swiper/css";
 import VideoState from "../src/context/video";
 import PreLoader from "../src/layout/PreLoader";
 import "../styles/globals.css";
+import CustomScript from "../src/layout/CustomScript";
 
 function MyApp({ Component, pageProps }) {
   const [loader, setLoader] = useState(true);
