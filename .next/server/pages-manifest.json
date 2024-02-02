@@ -1,11 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/admission": "pages/admission.js",
-  "/scholarship": "pages/scholarship.js",
-  "/about": "pages/about.js",
-  "/gallery": "pages/gallery.js",
-  "/contacts": "pages/contacts.js"
-}
+{"/_app":"pages/_app.js","/about":"pages/about.html","/_error":"pages/_error.js","/admission":"pages/admission.html","/_document":"pages/_document.js","/api/hello":"pages/api/hello.js","/category-details":"pages/category-details.html","/contacts":"pages/contacts.html","/categories-list":"pages/categories-list.html","/blog-listing":"pages/blog-listing.html","/course-details":"pages/course-details.html","/demo-2":"pages/demo-2.html","/become-a-teacher":"pages/become-a-teacher.html","/demo-3":"pages/demo-3.html","/demo-5":"pages/demo-5.html","/demo-6":"pages/demo-6.html","/demo-7":"pages/demo-7.html","/demo-4":"pages/demo-4.html","/courses-list":"pages/courses-list.html","/gallery":"pages/gallery.html","/faqs":"pages/faqs.html","/":"pages/index.html","/pricing":"pages/pricing.html","/reviews":"pages/reviews.html","/demo-9":"pages/demo-9.html","/teachers-list":"pages/teachers-list.html","/single-post":"pages/single-post.html","/teacher-profile":"pages/teacher-profile.html","/demo-8":"pages/demo-8.html","/scholarship":"pages/scholarship.html","/demo-1":"pages/demo-1.html","/404":"pages/404.html"}
