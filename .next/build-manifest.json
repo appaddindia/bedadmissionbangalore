@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/HabKAHlqJZyzQmxhBZrpl/_buildManifest.js",
-    "static/HabKAHlqJZyzQmxhBZrpl/_ssgManifest.js"
+    "static/bsc0VdDAfNpgOwqMRIi3s/_buildManifest.js",
+    "static/bsc0VdDAfNpgOwqMRIi3s/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -108,7 +108,7 @@
       "static/chunks/655-725b98a2ab13ad35.js",
       "static/chunks/325-4cc87625374cdd6b.js",
       "static/chunks/618-5a1500d9eff74aa1.js",
-      "static/chunks/pages/contacts-08f70e4912ad38ae.js"
+      "static/chunks/pages/contacts-ad8c23ceb1e1618b.js"
     ],
     "/course-details": [
       "static/chunks/webpack-335dccf94a459538.js",
