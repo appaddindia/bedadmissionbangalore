@@ -60,7 +60,7 @@ const Demo1Video3 = () => {
                 <SwiperSlide className="brand-logo">
                   <img
                     className="img-fluid"
-                    src="images/logo1.png"
+                    src="images/bengaluru_city_university_logo.png"
                     alt="brand-logo"
                   />
                 </SwiperSlide>
@@ -75,8 +75,9 @@ const Demo1Video3 = () => {
                 {/* BRAND LOGO IMAGE */}
                 <SwiperSlide className="brand-logo">
                   <img
+                    style={{ width: "50%" }}
                     className="img-fluid"
-                    src="images/logo3.png"
+                    src="images/Bengaluru_North_University_logo.png"
                     alt="brand-logo"
                   />
                 </SwiperSlide>
@@ -84,7 +85,7 @@ const Demo1Video3 = () => {
                 <SwiperSlide className="brand-logo">
                   <img
                     className="img-fluid"
-                    src="images/logo4.png"
+                    src="images/L.png"
                     alt="brand-logo"
                   />
                 </SwiperSlide>
@@ -92,7 +93,7 @@ const Demo1Video3 = () => {
                 <SwiperSlide className="brand-logo">
                   <img
                     className="img-fluid"
-                    src="images/logo5.png"
+                    src="images/11.png"
                     alt="brand-logo"
                   />
                 </SwiperSlide>
