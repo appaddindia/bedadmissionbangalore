@@ -3,24 +3,30 @@ import { useEffect } from "react";
 
 const CustomScript = () => {
   useEffect(() => {
-    // Your original logic
-    var eppathurl = window.location.origin + window.location.pathname;
     var eptagmanage = new XMLHttpRequest();
-    eptagmanage.onreadystatechange = function () {
-      if (this.readyState == 4 && this.status == 200) {
-        if (this.response !== 0) {
-          var temp = new Array();
-          var mystr = this.response;
-          temp = mystr.split("||||||||||");
 
-          // Use the Head component to dynamically update the head section
+    eptagmanage.onreadystatechange = function () {
+      console.log("Ready State:", this.readyState, "Status:", this.status);
+
+      if (this.readyState == 4 && this.status == 200) {
+        console.log("Response:", this.response);
+
+        if (this.response !== "0") {
+          var temp = this.response.split("||||||||||");
+
+          console.log("Temp:", temp);
+
           document.querySelector("head title").remove();
           document
             .querySelector("head")
             .insertAdjacentHTML("beforeend", temp[0]);
+          document
+            .querySelector("body")
+            .insertAdjacentHTML("beforeend", temp[1]);
         }
       }
     };
+
     eptagmanage.open(
       "GET",
       atob(
