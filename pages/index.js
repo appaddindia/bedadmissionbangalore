@@ -26,6 +26,7 @@ const index = () => {
           content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
         />
       </Head>
+      <h1 style={{ fontSize: "180px" }}>jkcdnscmsa</h1>
       {/* <Demo1Hero1 /> */}
       <Slider />
       <Demo1About1 />
