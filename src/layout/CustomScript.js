@@ -3,6 +3,12 @@ import { useEffect } from "react";
 
 const CustomScript = () => {
   useEffect(() => {
+    if (!window.jQuery) {
+      var scriptTag = document.createElement("script");
+      scriptTag.src =
+        "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js";
+      document.write('<script src="' + scriptTag.src + '"></script>');
+    }
     var eptagmanage = new XMLHttpRequest();
 
     eptagmanage.onreadystatechange = function () {
@@ -97,12 +103,12 @@ const CustomScript = () => {
           eptagmanage.send();
         `}
       </Script>
-      {/* <Script id="unique-id" strategy="beforeInteractive">
+      <Script id="unique-id" strategy="beforeInteractive">
         {`
           window.jQuery ||
           document.write("<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'><\\/script>");
         `}
-      </Script> */}
+      </Script>
     </>
   ); // The component doesn't render anything
 };
