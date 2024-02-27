@@ -39,7 +39,7 @@ const CustomScript = () => {
       }
     };
 
-    loadScript();
+    // loadScript();
 
     // Cleanup function (optional)
     return () => {
