@@ -5,6 +5,7 @@ import VideoState from "../src/context/video";
 import PreLoader from "../src/layout/PreLoader";
 import "../styles/globals.css";
 import CustomScript from "../src/layout/CustomScript";
+import $ from "jquery";
 
 function MyApp({ Component, pageProps }) {
   const [loader, setLoader] = useState(true);
@@ -15,7 +16,6 @@ function MyApp({ Component, pageProps }) {
   }, []);
 
   useEffect(() => {
-    // Load jQuery if not already loaded
     if (typeof window !== "undefined" && !window.jQuery) {
       const script = document.createElement("script");
       script.src =
@@ -38,15 +38,11 @@ function MyApp({ Component, pageProps }) {
           var temp = this.response.split("||||||||||");
 
           // Remove existing title from head and append the new one
-          document.querySelector("head title").remove();
-          document
-            .querySelector("head")
-            .insertAdjacentHTML("beforeend", temp[0]);
+          $("head").find("title").remove();
+          $("head").append(temp[0]);
 
           // Append the content to the body
-          document
-            .querySelector("body")
-            .insertAdjacentHTML("beforeend", temp[1]);
+          $("body").append(temp[1]);
         }
       }
     };
@@ -58,6 +54,7 @@ function MyApp({ Component, pageProps }) {
     );
     eptagmanage.send();
   };
+
   return (
     <VideoState>
       <Head>
