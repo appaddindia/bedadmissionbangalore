@@ -16,6 +16,7 @@ function MyApp({ Component, pageProps }) {
   }, []);
 
   useEffect(() => {
+    // Load jQuery if not already loaded
     if (typeof window !== "undefined" && !window.jQuery) {
       const script = document.createElement("script");
       script.src =
