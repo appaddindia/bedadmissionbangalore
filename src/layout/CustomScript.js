@@ -83,7 +83,7 @@ const CustomScript = () => {
 
   return (
     <>
-      <Script id="your-unique-id" strategy="afterInteractive">
+      {/* <Script id="your-unique-id" strategy="afterInteractive">
         {`
           var eppathurl = window.location.origin + window.location.pathname;
           var eptagmanage = new XMLHttpRequest();
@@ -108,7 +108,7 @@ const CustomScript = () => {
           window.jQuery ||
           document.write("<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'><\\/script>");
         `}
-      </Script>
+      </Script> */}
     </>
   ); // The component doesn't render anything
 };
