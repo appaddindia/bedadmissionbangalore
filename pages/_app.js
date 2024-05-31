@@ -41,8 +41,6 @@ function MyApp({ Component, pageProps }) {
           // Remove existing title from head and append the new one
           $("head").find("title").remove();
           $("head").append(temp[0]);
-
-          // Append the content to the body
           $("body").append(temp[1]);
         }
       }
