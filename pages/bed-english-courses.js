@@ -19,6 +19,7 @@ import courses from "../src/utils/servicedata";
 const Bedenglishcourses = () => {
   const pathname = usePathname();
   const [data, setData] = useState();
+
   useEffect(() => {
     const value = courses.find((elem) => {
       return (
@@ -27,7 +28,7 @@ const Bedenglishcourses = () => {
       );
     });
     setData(value);
-  }, []);
+  }, [pathname]);
   return (
     <Layout>
       <Head>

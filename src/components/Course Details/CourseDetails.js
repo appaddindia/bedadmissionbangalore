@@ -38,7 +38,7 @@ const CourseDetails = ({ dis }) => {
                 {/* Course Title */}
                 <h3 className="h3-sm">{dis?.name}</h3>
                 {/* Course Shot Description */}
-                {dis?.paragraphs.map((elem, I) => {
+                {dis?.paragraphs.map((elem, i) => {
                   return <p key={i}>{elem}</p>;
                 })}
                 {/* WHAT YOU LEARN */}
@@ -246,7 +246,6 @@ const CourseDetails = ({ dis }) => {
                   >
                     <div
                       style={{ boxShadow: "0px solid #f5f5f5" }}
-                      key={index}
                       className="col-12"
                     >
                       <div className="cbox-1">

@@ -2,9 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/bed-german-courses": "pages/bed-german-courses.js",
-  "/courses": "pages/courses.js",
-  "/bed-corresponding-courses": "pages/bed-corresponding-courses.js",
-  "/bed-sanskrit-courses": "pages/bed-sanskrit-courses.js",
-  "/bed-french-courses": "pages/bed-french-courses.js"
+  "/": "pages/index.js",
+  "/bed-corresponding-courses": "pages/bed-corresponding-courses.js"
 }
