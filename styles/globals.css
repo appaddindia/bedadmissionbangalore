@@ -57,13 +57,25 @@ div.sticky {
     height: 580px;
   }
 }
-@media (max-width: 992px){
+.big{
+  display: block;
+}
+.small{
+  display: none;
+}
+@media (max-width: 991px){
   .backslider{
     width: 100%;
     height: 620px;
   }
   .gydh{
     border-left: 0px solid rgb(235, 234, 234);
+  }
+  .big{
+    display: none;
+  }
+  .small{
+    display: block;
   }
 }
 @media (max-width: 678px){

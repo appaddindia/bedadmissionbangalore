@@ -112,6 +112,39 @@ export const home3ReviewProps = {
     },
   },
 };
+export const home3ReviewProps2 = {
+  className: "owl-carousel owl-theme reviews-holder",
+  slidesPerView: 1,
+  spaceBetween: 25,
+  loop: true,
+  autoplay: true,
+  speed: 800,
+  pagination: {
+    el: ".owl-dots",
+    clickable: true,
+  },
+  navigation: {
+    nextEl: ".owl-next",
+    prevEl: ".owl-prev",
+  },
+  breakpoints: {
+    1000: {
+      slidesPerView: 1,
+    },
+    991: {
+      slidesPerView: 1,
+    },
+    767: {
+      slidesPerView: 1,
+    },
+    768: {
+      slidesPerView: 1,
+    },
+    550: {
+      slidesPerView: 1,
+    },
+  },
+};
 export const teamcarousel = {
   className: "owl-carousel owl-theme reviews-holder",
   slidesPerView: 1,

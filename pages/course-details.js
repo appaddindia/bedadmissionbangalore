@@ -10,7 +10,7 @@ const courseDetails = () => {
       <div className="inner-page-wrapper">
         <PageTitle motherTitle="Back to Blog" pageTitle="Egestas volute..." />
         <CourseDetails />
-        <CourseDetailsCourses5 />
+        {/* <CourseDetailsCourses5 /> */}
       </div>
     </Layout>
   );

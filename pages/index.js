@@ -18,6 +18,7 @@ import HomeSelect from "../src/components/Home/HomeSelect";
 import Slider from "../src/components/Slider";
 import Layout from "../src/layout/Layout";
 import { useEffect, useState } from "react";
+import Header2 from "../src/layout/Header2";
 const index = () => {
   return (
     <Layout>
