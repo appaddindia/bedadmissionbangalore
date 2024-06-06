@@ -38,8 +38,8 @@ const CourseDetails = ({ dis }) => {
                 {/* Course Title */}
                 <h3 className="h3-sm">{dis?.name}</h3>
                 {/* Course Shot Description */}
-                {dis?.paragraphs.map((elem) => {
-                  return <p>{elem}</p>;
+                {dis?.paragraphs.map((elem, I) => {
+                  return <p key={i}>{elem}</p>;
                 })}
                 {/* WHAT YOU LEARN */}
                 <div className="what-you-learn">
@@ -54,8 +54,8 @@ const CourseDetails = ({ dis }) => {
                   {/* Small Title */}
                   <h5 className="h5-xl">{dis?.h2_1}</h5>
                   {/* Text */}
-                  {dis?.h2_1_paragraphs.map((elem) => {
-                    return <p>{elem}</p>;
+                  {dis?.h2_1_paragraphs.map((elem, i) => {
+                    return <p key={i}>{elem}</p>;
                   })}
                   {/* List */}
                 </div>
@@ -65,8 +65,8 @@ const CourseDetails = ({ dis }) => {
                   {/* Small Title */}
                   <h5 className="h5-xl">{dis?.h2_2}</h5>
                   {/* Text */}
-                  {dis?.h2_2_paragraphs.map((elem) => {
-                    return <p>{elem}</p>;
+                  {dis?.h2_2_paragraphs.map((elem, i) => {
+                    return <p key={i}>{elem}</p>;
                   })}
                   {/* Text */}
                   {/* List */}
@@ -238,8 +238,9 @@ const CourseDetails = ({ dis }) => {
               </div>
               <Swiper style={{ padding: "0px" }} {...home3ReviewProps2}>
                 {/* TESTIMONIAL #1 */}
-                {courses.map((elem, index) => (
+                {courses.map((elem, i) => (
                   <SwiperSlide
+                    key={i}
                     style={{ padding: "0px", margin: "0px", width: "100%" }}
                     className="review-1"
                   >
