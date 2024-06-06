@@ -18,6 +18,7 @@ import courses from "../src/utils/servicedata";
 const Bedurducourses = () => {
   const pathname = usePathname();
   const [data, setData] = useState();
+
   useEffect(() => {
     const value = courses.find((elem) => {
       return (
@@ -26,7 +27,7 @@ const Bedurducourses = () => {
       );
     });
     setData(value);
-  }, []);
+  }, [pathname]);
   return (
     <Layout>
       <Head>
