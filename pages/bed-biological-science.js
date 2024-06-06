@@ -1,3 +1,5 @@
+"use client"
+
 import React, { useEffect, useState } from "react";
 import CourseDetails from "../src/components/Course Details/CourseDetails";
 import CourseDetailsCourses5 from "../src/components/Course Details/CourseDetailsCourses5";
@@ -10,13 +12,13 @@ import Demo1Banner3 from "../src/components/Demo1/Demo1Banner3";
 import Demo1Video3 from "../src/components/Demo1/Demo1Video3";
 import BlogListingNewsLetter1 from "../src/components/Blog Listing/BlogListingNewsLetter1";
 import Bannerforservice from "../src/components/Demo8/Bannerforservice";
-
 import { usePathname } from "next/navigation";
 import courses from "../src/utils/servicedata";
 
-const courseDetails = () => {
+const Bedbiologicalscience = () => {
   const pathname = usePathname();
   const [data, setData] = useState();
+
   useEffect(() => {
     const value = courses.find((elem) => {
       return (
@@ -25,7 +27,8 @@ const courseDetails = () => {
       );
     });
     setData(value);
-  }, []);
+  }, [pathname]);
+
   return (
     <Layout>
       <Head>
@@ -47,4 +50,4 @@ const courseDetails = () => {
   );
 };
 
-export default courseDetails;
+export default Bedbiologicalscience;

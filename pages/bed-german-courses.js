@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useEffect, useState } from "react";
 import CourseDetails from "../src/components/Course Details/CourseDetails";
 import CourseDetailsCourses5 from "../src/components/Course Details/CourseDetailsCourses5";
@@ -14,7 +16,7 @@ import Bannerforservice from "../src/components/Demo8/Bannerforservice";
 import { usePathname } from "next/navigation";
 import courses from "../src/utils/servicedata";
 
-const courseDetails = () => {
+const Bedgermancourses = () => {
   const pathname = usePathname();
   const [data, setData] = useState();
   useEffect(() => {
@@ -47,4 +49,4 @@ const courseDetails = () => {
   );
 };
 
-export default courseDetails;
+export default Bedgermancourses;
