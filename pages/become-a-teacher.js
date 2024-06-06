@@ -1,3 +1,5 @@
+"use client";
+
 import React from "react";
 import BecomeATeacherAbout3 from "../src/components/Become a Teacher/BecomeATeacherAbout3";
 import BecomeATeacherAbout4 from "../src/components/Become a Teacher/BecomeATeacherAbout4";
