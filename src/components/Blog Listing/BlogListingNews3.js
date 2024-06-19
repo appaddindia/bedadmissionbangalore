@@ -83,7 +83,9 @@ const BlogListingNews3 = () => {
             <div className="col-lg-9">
               <div className="posts-holder pe-25">
                 {/* ARTICLE #1 */}
-                <h2 style={{ textAlign: "center" }}>BANGALORE UNIVERSITY</h2>
+                <h2 style={{ textAlign: "center" }}>
+                  Best B.Ed Admission in Bangalore
+                </h2>
                 <h5 style={{ textAlign: "center" }}>
                   BANGALORE UNIVERSITY REGULATIONS OF CHOICE BASED CREDIT SYSTEM
                   (CBCS) SEMESTER SCHEME TWO YEAR B.Ed PROGRAM

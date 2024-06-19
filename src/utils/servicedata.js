@@ -35,7 +35,7 @@ const courses = [
   {
     title: "B.Ed French Courses",
     description: {
-      h1: "B.Ed French Courses",
+      h1: "B.Ed in French in Bangalore",
       h2_1: "Innovative Teaching",
       h2_1_paragraphs: [
         "Innovative Teaching refers to the application of creative and forward-thinking approaches in education. Our French courses embody this innovation, ensuring educators are equipped to inspire and engage students. We utilize the latest methods and technologies to enhance the learning experience. From interactive online platforms to immersive language labs, our courses integrate cutting-edge tools to facilitate effective language acquisition.",
@@ -63,7 +63,7 @@ const courses = [
   {
     title: "B.Ed German Courses",
     description: {
-      h1: "B.Ed German Courses",
+      h1: "B.Ed in German course in Bangalore",
       h2_1: "A Beacon of Excellence",
       h2_1_paragraphs: [
         "A Beacon of Excellence symbolizes an entity that radiates outstanding qualities, serving as a guiding light for others. Our German courses adhere to this standard, providing exemplary education that distinguishes you in the field. We maintain the highest standards of teaching and learning, ensuring our graduates are well-prepared to excel. With a focus on academic rigor and practical application, our courses foster critical thinking, creativity, and cultural appreciation.",
@@ -91,7 +91,7 @@ const courses = [
   {
     title: "B.Ed Biological Science",
     description: {
-      h1: "B.Ed Biological Science",
+      h1: "B.Ed in Biological Science in Bangalore",
       h2_1: "Passion for Education",
       h2_1_paragraphs: [
         "Passion for Education reflects a fervent and dedicated commitment to the field of education. Our Biological Science program is driven by this passion, aiming to inspire and cultivate the same dedication in our students. We believe that passion is the driving force behind effective teaching and learning. In our Biological Science courses, we strive to ignite this passion within our students, fostering a deep appreciation for the wonders of science and the art of teaching. Through innovative teaching methods and engaging classroom experiences, we encourage students to explore their interests, ask questions, and think critically. By instilling a love for learning and teaching, we empower our students to become lifelong educators who inspire curiosity and drive positive change in the world.",
@@ -118,7 +118,7 @@ const courses = [
   {
     title: "B.Ed Sanskrit Courses",
     description: {
-      h1: "B.Ed Sanskrit Courses",
+      h1: " B.Ed in Sanskrit in Bangalore",
       h2_1: "Exploring Ancient Wisdom",
       h2_1_paragraphs: [
         "Exploring Ancient Wisdom lies at the core of our B.Ed Sanskrit Courses. Sanskrit, often regarded as the language of gods and scholars, encapsulates millennia of profound insights and cultural heritage. Our program delves deep into the linguistic nuances, literary treasures, and philosophical depth of Sanskrit, enabling students to connect with the rich tapestry of ancient Indian wisdom.",
@@ -150,7 +150,7 @@ const courses = [
   {
     title: "B.Ed Urdu Courses",
     description: {
-      h1: "B.Ed Urdu Courses",
+      h1: "B.Ed in Urdu in Bangalore",
       h2_1: "Exploring Urdu Literature",
       h2_1_paragraphs: [
         "Exploring Urdu Literature is the cornerstone of our B.Ed Urdu Courses. Urdu, with its rich literary tradition spanning centuries, offers a captivating journey into the heart of South Asian culture. Our program delves into the depth and diversity of Urdu poetry, prose, and drama, introducing students to renowned poets, writers, and literary movements.",
@@ -182,7 +182,7 @@ const courses = [
   {
     title: "B.Ed Hindi Courses",
     description: {
-      h1: "B.Ed Hindi Courses",
+      h1: "B.Ed in Hindi course in Bangalore",
       h2_1: "Delving into Hindi Literature",
       h2_1_paragraphs: [
         "Delving into Hindi Literature is a key component of our B.Ed Hindi Courses. Hindi, one of the most widely spoken languages in India, has a rich and varied literary tradition. Our program immerses students in the study of classic and modern Hindi literature, exploring works from renowned poets, novelists, and playwrights. Through an in-depth analysis of texts, students gain an understanding of the historical, cultural, and social contexts that have shaped Hindi literature over the centuries.",
@@ -214,7 +214,7 @@ const courses = [
   {
     title: "B.Ed Computer Science Courses",
     description: {
-      h1: "B.Ed Computer Science Courses",
+      h1: "B.Ed in Computer Science in Bangalore",
       h2_1: "Innovative Technology Integration",
       h2_1_paragraphs: [
         "Innovative Technology Integration is at the forefront of our B.Ed Computer Science Courses. In today's digital age, integrating technology into education is essential for creating engaging and effective learning environments. Our program emphasizes the use of cutting-edge technologies and tools to enhance teaching and learning experiences. Students learn how to effectively incorporate digital resources, such as educational software, online platforms, and multimedia, into their lesson plans.",
@@ -246,7 +246,7 @@ const courses = [
   {
     title: "B.Ed Physical Science Courses",
     description: {
-      h1: "B.Ed Physical Science Courses",
+      h1: "B.Ed in Physical Science in Bangalore",
       h2_1: "Exploring the Physical World",
       h2_1_paragraphs: [
         "Exploring the Physical World is the cornerstone of our B.Ed Physical Science Courses. Our program delves into the core concepts of physics and chemistry, providing students with a comprehensive understanding of the fundamental principles that govern the physical world. Through rigorous coursework and hands-on experiments, students explore topics such as mechanics, thermodynamics, electromagnetism, chemical reactions, and the properties of matter. By engaging with these concepts, students develop a solid foundation in physical science that prepares them for effective teaching.",
@@ -278,7 +278,7 @@ const courses = [
   {
     title: "B.Ed English Courses",
     description: {
-      h1: "B.Ed English Courses",
+      h1: "B.Ed in English in Bangalore",
       h2_1: "Mastering English Literature",
       h2_1_paragraphs: [
         "Mastering English Literature is a central focus of our B.Ed English Courses. English literature, with its rich and diverse tradition, offers a window into the cultural and historical contexts of the English-speaking world. Our program immerses students in the study of classic and contemporary literary works, exploring genres such as poetry, drama, fiction, and non-fiction. Through critical analysis and interpretation, students gain insights into the themes, styles, and societal influences that have shaped English literature over the centuries.",

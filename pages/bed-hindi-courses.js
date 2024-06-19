@@ -35,6 +35,11 @@ const Bedhindicourses = () => {
           name="google-site-verification"
           content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
         />
+        <meta name="title" content="B.Ed in Hindi course in Bangalore" />
+        <meta
+          name="description"
+          content="We are the best institute to give you the best B.Ed in Hindi course in Bangalore. Enrol with us today."
+        />
       </Head>
       <Bannerforservice
         name={data?.title}

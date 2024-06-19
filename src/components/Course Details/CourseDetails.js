@@ -36,7 +36,7 @@ const CourseDetails = ({ dis }) => {
                   style={{ width: "100%", marginBottom: "30px" }}
                 />
                 {/* Course Title */}
-                <h3 className="h3-sm">{dis?.name}</h3>
+                <h2 className="h3-sm">{dis?.h1}</h2>
                 {/* Course Shot Description */}
                 {dis?.paragraphs.map((elem, i) => {
                   return <p key={i}>{elem}</p>;

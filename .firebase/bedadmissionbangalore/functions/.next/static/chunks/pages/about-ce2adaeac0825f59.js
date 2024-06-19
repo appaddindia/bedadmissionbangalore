@@ -265,7 +265,7 @@
                       children: [
                         (0, i.jsx)("h3", {
                           className: "h3-sm",
-                          children: "B.Ed Admission in Bangalore University",
+                          children: "Top B.Ed colleges in Bangalore",
                         }),
                         (0, i.jsx)("p", {
                           children:

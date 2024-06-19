@@ -14,6 +14,11 @@ function gallery() {
           name="google-site-verification"
           content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
         />
+        <meta name="title" content="Best B.Ed College in Bangalore" />
+        <meta
+          name="description"
+          content="Looking for the best B.Ed college in Bangalore? Then you are in the right place. Feel free to contact us today."
+        />
       </Head>
       <Gallerybanner />
       <Demo8Hboxes2 />

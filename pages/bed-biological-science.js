@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import React, { useEffect, useState } from "react";
 import CourseDetails from "../src/components/Course Details/CourseDetails";
@@ -35,6 +35,11 @@ const Bedbiologicalscience = () => {
         <meta
           name="google-site-verification"
           content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
+        />
+        <meta name="title" content="B.Ed in Biological Science in Bangalore" />
+        <meta
+          name="description"
+          content="We give the best B.Ed education in biological science. We have the best faculty. Feel free to contact us."
         />
       </Head>
       <Bannerforservice

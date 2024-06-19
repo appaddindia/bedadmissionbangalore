@@ -36,6 +36,11 @@ const Bedcomputersciencecourses = () => {
           name="google-site-verification"
           content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
         />
+        <meta name="title" content="B.Ed in Computer Science in Bangalore" />
+        <meta
+          name="description"
+          content="We are the best in providing you with the best B.Ed in Computer Science in Bangalore. Feel free to contact us today."
+        />
       </Head>
       <Bannerforservice
         name={data?.title}

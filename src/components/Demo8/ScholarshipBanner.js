@@ -23,7 +23,12 @@ function ScholarshipBanner() {
               className="hero-txt text-center white-color"
             >
               {/* Title */}
-              <h4 className="h4-xs">Scholarship</h4>
+              <h2
+                style={{ fontWeight: 200, marginBottom: "0px" }}
+                className="h4-xs"
+              >
+                Scholarship for B.Ed Degree
+              </h2>
               <h2
                 style={{ fontSize: "36px", padding: "20px 0px" }}
                 className="h2-sm"

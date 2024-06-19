@@ -36,6 +36,11 @@ const Bedgermancourses = () => {
           name="google-site-verification"
           content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
         />
+        <meta name="title" content="B.Ed in German course in Bangalore" />
+        <meta
+          name="description"
+          content="Looking for the best B.Ed in German course in Bangalore? Then you are in the right place. Feel free to contact us."
+        />
       </Head>
       <Bannerforservice
         name={data?.title}

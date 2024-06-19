@@ -35,6 +35,11 @@ const Bedurducourses = () => {
           name="google-site-verification"
           content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
         />
+        <meta name="title" content="B.Ed in Urdu in Bangalore" />
+        <meta
+          name="description"
+          content="Want to earn a B.Ed degree in Urdu? Then we will be your 1st choice for this. We have the best faculty. Enroll today."
+        />
       </Head>
       <Bannerforservice
         name={data?.title}

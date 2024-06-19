@@ -16,7 +16,7 @@ const Aboutcourses3 = () => {
           <div className="col-md-12">
             <div className="section-title title-centered mb-60">
               {/* Title  */}
-              <h3 className="h3-sm">The Best Online Courses</h3>
+              <h3 className="h3-sm">B.Ed correspondence course in Bangalore</h3>
 
               <p className="p-md">
                 Explore top online B.Ed courses for Bangalore University

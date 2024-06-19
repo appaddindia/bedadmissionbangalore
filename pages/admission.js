@@ -15,6 +15,11 @@ function admission() {
           name="google-site-verification"
           content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
         />
+        <meta name="title" content="Best B.Ed Admission in Bangalore" />
+        <meta
+          name="description"
+          content="Looking for the best B.Ed Admission in Bangalore? Then think of us as we provide the best education in Bangalore for B.Ed degree."
+        />
       </Head>
       <AdmissionBanner />
       <Demo8Hboxes2 />

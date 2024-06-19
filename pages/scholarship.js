@@ -19,6 +19,11 @@ function scholarship() {
           name="google-site-verification"
           content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
         />
+        <meta name="title" content="Scholarship for B.Ed Degree" />
+        <meta
+          name="description"
+          content="We can provide you with the best Scholarship for B.Ed Degree in Bangalore. Feel free to contact us today."
+        />
       </Head>
       <ScholarshipBanner />
       <div style={{ marginTop: "-20px" }}>

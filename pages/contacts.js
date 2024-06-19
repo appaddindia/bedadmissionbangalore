@@ -16,6 +16,11 @@ const contacts = () => {
           name="google-site-verification"
           content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
         />
+        <meta name="title" content="Best B.Ed Degree College in Bangalore" />
+        <meta
+          name="description"
+          content="We are the best B.Ed Degree College in Bangalore. Feel free to contact us to learn more and get your degree."
+        />
       </Head>
       <NewBannercontact />
       {/* END HERO-8 */}
@@ -30,7 +35,7 @@ const contacts = () => {
             <div className="col-md-12">
               <div className="section-title title-centered mb-30">
                 {/* Title 	*/}
-                <h3 className="h3-sm">CITY OFFICE ADDRESSES</h3>
+                <h2 className="h3-sm">Best B.Ed Degree College in Bangalore</h2>
               </div>
             </div>
           </div>

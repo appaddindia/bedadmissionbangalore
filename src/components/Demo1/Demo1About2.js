@@ -19,7 +19,7 @@ const Demo1About2 = () => {
           <div className="col-md-7 col-lg-6">
             <div className="txt-block pc-25 mb-40">
               {/* Title */}
-              <h3 className="h3-sm">B.Ed Admission in Bangalore University</h3>
+              <h3 className="h3-sm">Best B.Ed college in Bangalore</h3>
               {/* Text */}
               <p>
                 We take pride in our commitment to shaping the future of

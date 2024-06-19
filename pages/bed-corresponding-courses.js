@@ -36,6 +36,11 @@ const Bedcorrespondingcourses = () => {
           name="google-site-verification"
           content="7_B5W65vkDoemWm_icAOh9OziDM6z5fCjAwKWzwXA-c"
         />
+        <meta name="title" content="B.Ed correspondence course in Bangalore" />
+        <meta
+          name="description"
+          content="We have the best faculty for the B.Ed correspondence course in Bangalore. If you are looking for this then feel free to contact us."
+        />
       </Head>
       <Bannerforservice
         name={data?.title}
