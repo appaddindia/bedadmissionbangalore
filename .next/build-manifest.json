@@ -22,25 +22,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/admission": [
+    "/bed-computer-science-courses": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/admission.js"
+      "static/chunks/pages/bed-computer-science-courses.js"
     ],
-    "/bed-corresponding-courses": [
+    "/bed-english-courses": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/bed-corresponding-courses.js"
+      "static/chunks/pages/bed-english-courses.js"
     ],
-    "/bed-german-courses": [
+    "/bed-urdu-courses": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/bed-german-courses.js"
-    ],
-    "/bed-sanskrit-courses": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/bed-sanskrit-courses.js"
+      "static/chunks/pages/bed-urdu-courses.js"
     ]
   },
   "ampFirstPages": []
