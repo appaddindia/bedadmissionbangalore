@@ -89,20 +89,7 @@ const courses = [
       paragraphs: [
         "Embark on a transformative journey with our B.Ed German Courses at Bangalore University. Tailored for educators passionate about the German language, our comprehensive programs combine theoretical knowledge with practical application. With a legacy of excellence, our institute stands as a beacon of pedagogical innovation and academic rigor, equipping educators with the skills needed to thrive in today's dynamic educational landscape. Our courses offer in-depth knowledge of the language and culture, along with advanced teaching techniques, ensuring graduates are well-prepared to meet the demands of teaching German in diverse educational settings.",
         "Experience the richness of German language and culture through our immersive B.Ed German Courses at Bangalore University. Delve into the intricacies of the language while exploring its vibrant cultural heritage. Our programs are meticulously crafted to provide a holistic learning experience, blending linguistic proficiency with cultural appreciation. Whether you're a novice learner or an experienced educator, our courses cater to individuals at all levels, fostering a supportive and engaging learning environment.",
-        <p>
-          Join a community of passionate educators and language enthusiasts with
-          our B.Ed German Courses. Engage in lively discussions, collaborative
-          projects, and interactive activities designed to enhance your
-          understanding of the German language and culture. Our experienced
-          faculty members are committed to providing personalized support and
-          guidance, ensuring every learner reaches their full potential. Embark
-          on your journey towards language mastery and cultural immersion with
-          our B.Ed German Courses today.
-          <strong style={{ marginLeft: "6px" }}>
-            Looking for the best B.Ed in German in Bangalore? Then you are in
-            the right place. Feel free to contact us today or call us now
-          </strong>
-        </p>,
+        ,
       ],
       image: "images/sss7.jpg",
       link: "bed-german-courses",
