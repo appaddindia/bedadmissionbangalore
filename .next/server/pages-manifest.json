@@ -2,6 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/bed-urdu-courses": "pages/bed-urdu-courses.js",
   "/bed-german-courses": "pages/bed-german-courses.js"
 }

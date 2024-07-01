@@ -47,22 +47,10 @@ const courses = [
       ],
       paragraphs: [
         "Embark on a transformative journey with our B.Ed French Courses at Bangalore University. Our comprehensive programs are tailored to meet the needs of aspiring educators passionate about teaching the French language. Rooted in a legacy of educational excellence, our institute stands as a beacon of pedagogical innovation and academic rigor. Our courses combine theoretical knowledge with practical application, equipping educators with the requisite skills and expertise to thrive in today's multicultural and interconnected world.",
-        <p>
-          Experience the richness of language and culture through our immersive
-          B.Ed French Courses. Our curriculum transcends traditional language
-          instruction by immersing learners in authentic linguistic and cultural
-          contexts. From language immersion camps to virtual exchange programs,
-          our courses offer diverse opportunities for linguistic and cultural
-          exploration. Furthermore, our faculty comprises seasoned language
-          professionals and native speakers who provide invaluable insights and
-          mentorship. Join us and embark on a journey of linguistic discovery,
-          cultural enrichment, and professional growth.
-          <strong style={{ marginLeft: "6px" }}>
-            Looking for the best B.Ed in French in Bangalore? Then you are in
-            the right place. Feel free to contact us today or call us now
-          </strong>
-        </p>,
+        "Experience the richness of language and culture through our immersive B.Ed French Courses. Our curriculum transcends traditional language instruction by immersing learners in authentic linguistic and cultural contexts. From language immersion camps to virtual exchange programs, our courses offer diverse opportunities for linguistic and cultural exploration. Furthermore, our faculty comprises seasoned language professionals and native speakers who provide invaluable insights and mentorship. Join us and embark on a journey of linguistic discovery, cultural enrichment, and professional growth.",
       ],
+      stronge:
+        "Looking for the best B.Ed in French in Bangalore? Then you are in  the right place. Feel free to contact us today or call us now",
       image: "images/sss5.jpg",
       link: "bed-french-courses",
       number_of_reviews: 180,
@@ -89,8 +77,10 @@ const courses = [
       paragraphs: [
         "Embark on a transformative journey with our B.Ed German Courses at Bangalore University. Tailored for educators passionate about the German language, our comprehensive programs combine theoretical knowledge with practical application. With a legacy of excellence, our institute stands as a beacon of pedagogical innovation and academic rigor, equipping educators with the skills needed to thrive in today's dynamic educational landscape. Our courses offer in-depth knowledge of the language and culture, along with advanced teaching techniques, ensuring graduates are well-prepared to meet the demands of teaching German in diverse educational settings.",
         "Experience the richness of German language and culture through our immersive B.Ed German Courses at Bangalore University. Delve into the intricacies of the language while exploring its vibrant cultural heritage. Our programs are meticulously crafted to provide a holistic learning experience, blending linguistic proficiency with cultural appreciation. Whether you're a novice learner or an experienced educator, our courses cater to individuals at all levels, fostering a supportive and engaging learning environment.",
-        ,
+        "Join a community of passionate educators and language enthusiasts with our B.Ed German Courses. Engage in lively discussions, collaborative projects, and interactive activities designed to enhance your understanding of the German language and culture. Our experienced faculty members are committed to providing personalized support and guidance, ensuring every learner reaches their full potential. Embark on your journey towards language mastery and cultural immersion with our B.Ed German Courses today.",
       ],
+      stronge:
+        "Looking for the best B.Ed in German in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
       image: "images/sss7.jpg",
       link: "bed-german-courses",
       number_of_reviews: 200,
@@ -116,25 +106,11 @@ const courses = [
       ],
       paragraphs: [
         "Embark on a transformative journey with our B.Ed Biological Science program at Bangalore University. Our comprehensive training programs are designed to shape the future of education, equipping educators with the skills and expertise needed to thrive in today's dynamic educational landscape. With a legacy of excellence, our institute stands as a beacon of knowledge, providing educators with the tools they need to make a meaningful impact. Whether you're passionate about biology or dedicated to teaching, our program offers a unique opportunity to merge these interests and create a fulfilling career in education.",
-        <p>
-          Our B.Ed Biological Science program caters to individuals with a deep
-          interest in the biological sciences and a passion for teaching. From
-          basic biology to advanced scientific concepts, our curriculum covers a
-          wide range of topics, ensuring students receive a comprehensive
-          understanding of the subject. With hands-on learning experiences and
-          real-world applications, students are prepared to excel in their
-          teaching careers. Our faculty members are experts in their fields,
-          dedicated to providing personalized support and mentorship to help
-          students reach their full potential. Join us and become part of a
-          vibrant community of educators committed to making a difference in the
-          world.
-          <strong style={{ marginLeft: "6px" }}>
-            Looking for the best B.Ed in Biological Science in Bangalore? Then
-            you are in the right place. Feel free to contact us
-            today or call us now
-          </strong>
-        </p>,
+
+        "Our B.Ed Biological Science program caters to individuals with a deep interest in the biological sciences and a passion for teaching. From basic biology to advanced scientific concepts, our curriculum covers a wide range of topics, ensuring students receive a comprehensive understanding of the subject. With hands-on learning experiences and real-world applications, students are prepared to excel in their teaching careers. Our faculty members are experts in their fields, dedicated to providing personalized support and mentorship to help students reach their full potential. Join us and become part of a vibrant community of educators committed to making a difference in the world.",
       ],
+      stronge:
+        "Looking for the best B.Ed in Biological Science in Bangalore? Then you are in the right place. Feel free to contact us  today or call us now",
       image: "images/sss9.avif",
       link: "bed-biological-science",
       number_of_reviews: 220,
@@ -164,21 +140,11 @@ const courses = [
       ],
       paragraphs: [
         "Embark on a transformative journey into the heart of ancient Indian wisdom with our B.Ed Sanskrit Courses at Bangalore University. Our comprehensive program offers students a deep dive into the linguistic, literary, and philosophical treasures of Sanskrit, enabling them to unravel the secrets of this ancient language and culture. With a legacy spanning millennia, Sanskrit is not just a language but a repository of profound wisdom and timeless truths.",
-        <p>
-          Our courses are designed to cater to students of all levels, from
-          beginners to advanced learners, providing a structured pathway to
-          linguistic and scholarly proficiency. Through a combination of
-          rigorous study, interactive learning experiences, and practical
-          applications, students develop a deep understanding of Sanskrit
-          grammar, syntax, and vocabulary, as well as its cultural and
-          philosophical significance.
-          <strong style={{ marginLeft: "6px" }}>
-            Looking for the best B.Ed in Sanskrit in Bangalore? Then you are in
-            the right place. Feel free to contact us today or call us now
-          </strong>
-        </p>,
+        "Our courses are designed to cater to students of all levels, from beginners to advanced learners, providing a structured pathway to linguistic and scholarly proficiency. Through a combination of rigorous study, interactive learning experiences, and practical applications, students develop a deep understanding of Sanskrit grammar, syntax, and vocabulary, as well as its cultural and philosophical significance.",
         "Whether you aspire to become a Sanskrit scholar, educator, or simply wish to explore the rich heritage of India's ancient texts, our B.Ed Sanskrit Courses offer a gateway to a world of knowledge and enlightenment. Join us on a journey to discover the beauty, depth, and relevance of Sanskrit in the modern world, and become part of a vibrant community dedicated to preserving and promoting India's cultural heritage.",
       ],
+      stronge:
+        "Looking for the best B.Ed in Sanskrit in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
       image: "images/sss10.avif",
       link: "bed-sanskrit-courses",
       number_of_reviews: 220,
@@ -209,18 +175,10 @@ const courses = [
       paragraphs: [
         "Embark on a journey into the enchanting world of Urdu language and literature with our B.Ed Urdu Courses at Bangalore University. Our comprehensive program offers students a deep dive into the rich tapestry of Urdu literature, poetry, and prose, enabling them to explore the diverse literary traditions and cultural heritage of Urdu-speaking communities.",
         "Our courses are designed to cater to students of all levels, from beginners to advanced learners, providing a structured pathway to linguistic and literary proficiency. Through a combination of rigorous study, interactive learning experiences, and practical applications, students develop a deep understanding of Urdu grammar, syntax, and vocabulary, as well as its cultural and social significance.",
-        <p>
-          Whether you aspire to become a Urdu scholar, educator, or simply wish
-          to explore the rich literary heritage of Urdu literature, our B.Ed
-          Urdu Courses offer a gateway to a world of knowledge and
-          enlightenment. Join us on a journey to discover the beauty, depth, and
-          relevance of Urdu language and literature in the modern world.
-          <strong style={{ marginLeft: "6px" }}>
-            Looking for the best B.Ed in Urdu in Bangalore? Then you are in the
-            right place. Feel free to contact us today or call us now
-          </strong>
-        </p>,
+        "Whether you aspire to become a Urdu scholar, educator, or simply wish to explore the rich literary heritage of Urdu literature, our B.Ed Urdu Courses offer a gateway to a world of knowledge and enlightenment. Join us on a journey to discover the beauty, depth, and relevance of Urdu language and literature in the modern world.",
       ],
+      stronge:
+        "Looking for the best B.Ed in Urdu in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
       image: "images/sss12.jpg",
       link: "bed-urdu-courses",
       number_of_reviews: 220,
@@ -251,19 +209,10 @@ const courses = [
       paragraphs: [
         "Embark on a comprehensive journey into the world of Hindi language and literature with our B.Ed Hindi Courses at Bangalore University. Our program offers students an in-depth exploration of Hindi, from its literary treasures to its linguistic intricacies. Whether you are a beginner or an advanced learner, our courses are designed to meet your needs and help you achieve proficiency in Hindi.",
         "Our B.Ed Hindi Courses provide a well-rounded education that combines theoretical knowledge with practical skills. Students engage in rigorous study of Hindi grammar and syntax, developing a strong foundation that supports advanced language use. Through the study of classical and contemporary texts, students gain a deeper appreciation for Hindi literature and its cultural significance.",
-        <p>
-          Our dedicated faculty members are passionate about Hindi and committed
-          to student success. With their expertise and support, students receive
-          personalized instruction and constructive feedback, enabling them to
-          excel in their studies. Join our B.Ed Hindi Courses and immerse
-          yourself in the rich heritage of Hindi language and literature,
-          unlocking new opportunities for personal and professional growth.{" "}
-          <strong style={{ marginLeft: "6px" }}>
-            Looking for the best B.Ed in Hindi in Bangalore? Then you are in the
-            right place. Feel free to contact us today or call us now
-          </strong>
-        </p>,
+        "Our dedicated faculty members are passionate about Hindi and committed to student success. With their expertise and support, students receive personalized instruction and constructive feedback, enabling them to excel in their studies. Join our B.Ed Hindi Courses and immerse yourself in the rich heritage of Hindi language and literature, unlocking new opportunities for personal and professional growth.",
       ],
+      stronge:
+        "Looking for the best B.Ed in Hindi in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
       image: "images/sss15.jpg",
       link: "bed-hindi-courses",
       number_of_reviews: 180,
@@ -294,21 +243,10 @@ const courses = [
       paragraphs: [
         "Join our B.Ed Computer Science Courses at Bangalore University and embark on a transformative journey into the world of computer science education. Our program offers a comprehensive curriculum that combines rigorous academic study with practical training, preparing students to become proficient and innovative computer science educators.",
         "Our courses are designed to provide a deep understanding of computer science concepts, programming languages, and educational methodologies. Students engage in hands-on projects, collaborative learning experiences, and real-world teaching practice, developing the skills needed to effectively teach computer science in diverse educational settings.",
-        <p>
-          Our dedicated faculty members are experts in the field of computer
-          science and education, committed to helping students succeed. With
-          their guidance and mentorship, students receive personalized
-          instruction and feedback, enabling them to excel in their studies.
-          Whether you aspire to teach in schools, colleges, or other educational
-          institutions, our B.Ed Computer Science Courses offer the knowledge
-          and skills needed to make a significant impact in the field of
-          computer science education.
-          <strong style={{ marginLeft: "6px" }}>
-            Looking for the best B.Ed in Computer Science in Bangalore? Then you
-            are in the right place. Feel free to contact us today or call us now
-          </strong>
-        </p>,
+        "Our dedicated faculty members are experts in the field of computer science and education, committed to helping students succeed. With their guidance and mentorship, students receive personalized instruction and feedback, enabling them to excel in their studies. Whether you aspire to teach in schools, colleges, or other educational institutions, our B.Ed Computer Science Courses offer the knowledge and skills needed to make a significant impact in the field of computer science education.",
       ],
+      stronge:
+        "Looking for the best B.Ed in Computer Science in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
       image: "images/sss17.avif",
       link: "bed-computer-science-courses",
       number_of_reviews: 240,
@@ -338,21 +276,11 @@ const courses = [
       ],
       paragraphs: [
         "Embark on a journey into the fascinating world of physical science with our B.Ed Physical Science Courses at Bangalore University. Our program offers an in-depth exploration of the principles of physics and chemistry, providing students with the knowledge and skills needed to excel in teaching these subjects. Through a combination of theoretical study and practical application, students develop a comprehensive understanding of the physical sciences.",
-        <p>
-          Our courses are designed to cater to students at all levels, from
-          those new to the subject to those with prior experience. We provide a
-          structured pathway that covers essential topics in physics and
-          chemistry, while also allowing students to delve into specialized
-          areas of interest. By engaging with both classical and modern
-          scientific concepts, students gain a well-rounded education that
-          prepares them for the challenges of teaching physical science.
-          <strong style={{ marginLeft: "6px" }}>
-            Looking for the best B.Ed in Physical Science in Bangalore? Then you
-            are in the right place. Feel free to contact us today or call us now
-          </strong>
-        </p>,
+        "Our courses are designed to cater to students at all levels, from those new to the subject to those with prior experience. We provide a structured pathway that covers essential topics in physics and chemistry, while also allowing students to delve into specialized areas of interest. By engaging with both classical and modern scientific concepts, students gain a well-rounded education that prepares them for the challenges of teaching physical science.",
         "Our dedicated faculty members are committed to student success, offering personalized instruction and support. With their guidance, students participate in hands-on experiments, field studies, and collaborative projects, enhancing their practical skills and scientific knowledge. Join our B.Ed Physical Science Courses and discover the joy of exploring the physical world, while preparing for a rewarding career in science education.",
       ],
+      stronge:
+        "Looking for the best B.Ed in Physical Science in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
       image: "images/sss18.jpg",
       link: "bed-physical-science-courses",
       number_of_reviews: 150,
@@ -383,20 +311,10 @@ const courses = [
       paragraphs: [
         "Join our B.Ed English Courses at Bangalore University and embark on a transformative journey into the world of English language and literature. Our comprehensive program offers students an in-depth exploration of English, from its literary masterpieces to its linguistic intricacies. Whether you are a beginner or an advanced learner, our courses are designed to meet your needs and help you achieve proficiency in English.",
         "Our B.Ed English Courses provide a well-rounded education that combines theoretical knowledge with practical skills. Students engage in rigorous study of English grammar, syntax, and vocabulary, developing a strong foundation that supports advanced language use. Through the study of classic and contemporary literary works, students gain a deeper appreciation for English literature and its cultural significance.",
-        <p>
-          Our dedicated faculty members are passionate about English and
-          committed to student success. With their expertise and support,
-          students receive personalized instruction and constructive feedback,
-          enabling them to excel in their studies. Join our B.Ed English Courses
-          and immerse yourself in the rich heritage of English language and
-          literature, unlocking new opportunities for personal and professional
-          growth.
-          <strong style={{ marginLeft: "6px" }}>
-            Looking for the best B.Ed in English in Bangalore? Then you are in
-            the right place. Feel free to contact us today or call us now
-          </strong>
-        </p>,
+        "Our dedicated faculty members are passionate about English and committed to student success. With their expertise and support, students receive personalized instruction and constructive feedback, enabling them to excel in their studies. Join our B.Ed English Courses and immerse yourself in the rich heritage of English language and literature, unlocking new opportunities for personal and professional growth.",
       ],
+      stronge:
+        "Looking for the best B.Ed in English in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
       image: "images/sss21.jpg",
       link: "bed-english-courses",
       number_of_reviews: 200,

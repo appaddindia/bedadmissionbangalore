@@ -26,11 +26,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/bed-german-courses.js"
-    ],
-    "/bed-urdu-courses": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/bed-urdu-courses.js"
     ]
   },
   "ampFirstPages": []

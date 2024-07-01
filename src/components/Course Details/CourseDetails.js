@@ -39,11 +39,18 @@ const CourseDetails = ({ dis }) => {
                 <h2 className="h3-sm">{dis?.h1}</h2>
                 {/* Course Shot Description */}
                 {dis?.paragraphs.map((elem, i) => {
-                  if (typeof elem == "string") {
-                    return <p key={i}>{elem}</p>;
-                  } else {
-                    <div key={i}>{elem}</div>;
-                  }
+                  return (
+                    <p key={i}>
+                      {elem}
+                      {dis?.paragraphs.length - 1 == i ? (
+                        <strong style={{ marginLeft: "6px" }}>
+                          {dis.stronge}
+                        </strong>
+                      ) : (
+                        <strong></strong>
+                      )}
+                    </p>
+                  );
                 })}
                 {/* WHAT YOU LEARN */}
                 <div className="what-you-learn">
@@ -59,11 +66,7 @@ const CourseDetails = ({ dis }) => {
                   <h5 className="h5-xl">{dis?.h2_1}</h5>
                   {/* Text */}
                   {dis?.h2_1_paragraphs.map((elem, i) => {
-                    if (typeof elem == "string") {
-                      return <p key={i}>{elem}</p>;
-                    } else {
-                      <div key={i}>{elem}</div>;
-                    }
+                    return <p key={i}>{elem}</p>;
                   })}
                   {/* List */}
                 </div>
@@ -74,11 +77,7 @@ const CourseDetails = ({ dis }) => {
                   <h5 className="h5-xl">{dis?.h2_2}</h5>
                   {/* Text */}
                   {dis?.h2_2_paragraphs.map((elem, i) => {
-                    if (typeof elem == "string") {
-                      return <p key={i}>{elem}</p>;
-                    } else {
-                      <div key={i}>{elem}</div>;
-                    }
+                    return <p key={i}>{elem}</p>;
                   })}
                   {/* Text */}
                   {/* List */}
