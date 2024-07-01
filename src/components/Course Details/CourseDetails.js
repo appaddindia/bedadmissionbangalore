@@ -43,7 +43,7 @@ const CourseDetails = ({ dis }) => {
                     <p key={i}>
                       {elem}
                       {dis?.paragraphs.length - 1 === i ? (
-                        <strong style={{ marginLeft: "6px" }}>
+                        <strong style={{ marginLeft: "6px", fontWeight: 600 }}>
                           {dis.stronge}
                         </strong>
                       ) : (

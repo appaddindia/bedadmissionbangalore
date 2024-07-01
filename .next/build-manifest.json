@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/dG3ClhiEQJA5f9-MmK8py/_buildManifest.js",
-    "static/dG3ClhiEQJA5f9-MmK8py/_ssgManifest.js"
+    "static/9K2zVhAi2azyJr1UnPw-8/_buildManifest.js",
+    "static/9K2zVhAi2azyJr1UnPw-8/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -79,7 +79,7 @@
       "static/chunks/5655-d0498b0765946132.js",
       "static/chunks/6325-be345bfcec199b1b.js",
       "static/chunks/2119-b436907c41f22700.js",
-      "static/chunks/4833-b0141388205f837e.js",
+      "static/chunks/4833-abb2b6996491a9b6.js",
       "static/chunks/5379-76795337497816ba.js",
       "static/chunks/pages/bed-biological-science-a4adbede67c0ceb3.js"
     ],
@@ -92,7 +92,7 @@
       "static/chunks/5655-d0498b0765946132.js",
       "static/chunks/6325-be345bfcec199b1b.js",
       "static/chunks/2119-b436907c41f22700.js",
-      "static/chunks/4833-b0141388205f837e.js",
+      "static/chunks/4833-abb2b6996491a9b6.js",
       "static/chunks/5379-76795337497816ba.js",
       "static/chunks/pages/bed-computer-science-courses-66c813bacf85c9ab.js"
     ],
@@ -105,7 +105,7 @@
       "static/chunks/5655-d0498b0765946132.js",
       "static/chunks/6325-be345bfcec199b1b.js",
       "static/chunks/2119-b436907c41f22700.js",
-      "static/chunks/4833-b0141388205f837e.js",
+      "static/chunks/4833-abb2b6996491a9b6.js",
       "static/chunks/5379-76795337497816ba.js",
       "static/chunks/pages/bed-corresponding-courses-04d8df1e8e2b9c6d.js"
     ],
@@ -118,7 +118,7 @@
       "static/chunks/5655-d0498b0765946132.js",
       "static/chunks/6325-be345bfcec199b1b.js",
       "static/chunks/2119-b436907c41f22700.js",
-      "static/chunks/4833-b0141388205f837e.js",
+      "static/chunks/4833-abb2b6996491a9b6.js",
       "static/chunks/5379-76795337497816ba.js",
       "static/chunks/pages/bed-english-courses-edea0fdd2658c6cc.js"
     ],
@@ -131,7 +131,7 @@
       "static/chunks/5655-d0498b0765946132.js",
       "static/chunks/6325-be345bfcec199b1b.js",
       "static/chunks/2119-b436907c41f22700.js",
-      "static/chunks/4833-b0141388205f837e.js",
+      "static/chunks/4833-abb2b6996491a9b6.js",
       "static/chunks/5379-76795337497816ba.js",
       "static/chunks/pages/bed-french-courses-256b6c348e4435fc.js"
     ],
@@ -144,7 +144,7 @@
       "static/chunks/5655-d0498b0765946132.js",
       "static/chunks/6325-be345bfcec199b1b.js",
       "static/chunks/2119-b436907c41f22700.js",
-      "static/chunks/4833-b0141388205f837e.js",
+      "static/chunks/4833-abb2b6996491a9b6.js",
       "static/chunks/5379-76795337497816ba.js",
       "static/chunks/pages/bed-german-courses-4d660c03fdedd9b2.js"
     ],
@@ -157,7 +157,7 @@
       "static/chunks/5655-d0498b0765946132.js",
       "static/chunks/6325-be345bfcec199b1b.js",
       "static/chunks/2119-b436907c41f22700.js",
-      "static/chunks/4833-b0141388205f837e.js",
+      "static/chunks/4833-abb2b6996491a9b6.js",
       "static/chunks/5379-76795337497816ba.js",
       "static/chunks/pages/bed-hindi-courses-a9cc990633d5ef99.js"
     ],
@@ -170,7 +170,7 @@
       "static/chunks/5655-d0498b0765946132.js",
       "static/chunks/6325-be345bfcec199b1b.js",
       "static/chunks/2119-b436907c41f22700.js",
-      "static/chunks/4833-b0141388205f837e.js",
+      "static/chunks/4833-abb2b6996491a9b6.js",
       "static/chunks/5379-76795337497816ba.js",
       "static/chunks/pages/bed-physical-science-courses-4ff0437698047611.js"
     ],
@@ -183,7 +183,7 @@
       "static/chunks/5655-d0498b0765946132.js",
       "static/chunks/6325-be345bfcec199b1b.js",
       "static/chunks/2119-b436907c41f22700.js",
-      "static/chunks/4833-b0141388205f837e.js",
+      "static/chunks/4833-abb2b6996491a9b6.js",
       "static/chunks/5379-76795337497816ba.js",
       "static/chunks/pages/bed-sanskrit-courses-0eabfa504ec7b99d.js"
     ],
@@ -196,7 +196,7 @@
       "static/chunks/5655-d0498b0765946132.js",
       "static/chunks/6325-be345bfcec199b1b.js",
       "static/chunks/2119-b436907c41f22700.js",
-      "static/chunks/4833-b0141388205f837e.js",
+      "static/chunks/4833-abb2b6996491a9b6.js",
       "static/chunks/5379-76795337497816ba.js",
       "static/chunks/pages/bed-urdu-courses-9260b3d0b787c2cd.js"
     ],
@@ -247,7 +247,7 @@
       "static/chunks/8070-35e37c2e1c27665f.js",
       "static/chunks/2546-2aa1994a88fdcb42.js",
       "static/chunks/6325-be345bfcec199b1b.js",
-      "static/chunks/4833-b0141388205f837e.js",
+      "static/chunks/4833-abb2b6996491a9b6.js",
       "static/chunks/pages/course-details-0e58b1e3ffa02892.js"
     ],
     "/courses": [
