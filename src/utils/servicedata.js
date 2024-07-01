@@ -21,6 +21,7 @@ const courses = [
         "Our B.Ed Corresponding Courses offer flexibility for working professionals. We provide a supportive learning environment for students balancing studies with work. Our online courses are accessible, allowing students to study at their own pace. We use the latest technologies for engaging learning experiences. Faculty members are always available for support. By offering flexible options, we make high-quality education accessible to everyone.",
         "These courses allow you to balance your career and studies effectively. Our programs provide a comprehensive education while allowing you to continue working. We offer resources like online tutoring and career counseling. Faculty members provide high-quality instruction and support. By choosing our B.Ed Corresponding Courses, you achieve your educational goals without sacrificing your career. We are committed to helping you succeed in the field of education.",
       ],
+      stronge: "",
       image: "images/sss2.jpg",
       link: "bed-corresponding-courses",
       number_of_reviews: 250,
