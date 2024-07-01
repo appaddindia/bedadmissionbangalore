@@ -4,7 +4,6 @@ import "swiper/css";
 import VideoState from "../src/context/video";
 import PreLoader from "../src/layout/PreLoader";
 import "../styles/globals.css";
-import CustomScript from "../src/layout/CustomScript";
 import $ from "jquery";
 
 function MyApp({ Component, pageProps }) {

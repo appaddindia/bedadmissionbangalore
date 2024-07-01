@@ -23,7 +23,6 @@ import Demo1About3 from "../src/components/Demo1/Demo1About3";
 import Demo1Banner3 from "../src/components/Demo1/Demo1Banner3";
 import Aboutinfo from "../src/components/Selfcreated/Aboutinfo";
 import Head from "next/head";
-import CustomScript from "../src/layout/CustomScript";
 import Bannerforservice from "../src/components/Demo8/Bannerforservice";
 
 function courses() {
