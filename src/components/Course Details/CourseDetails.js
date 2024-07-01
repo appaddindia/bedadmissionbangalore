@@ -42,7 +42,7 @@ const CourseDetails = ({ dis }) => {
                   return (
                     <p key={i}>
                       {elem}
-                      {dis?.paragraphs.length - 1 == i ? (
+                      {dis?.paragraphs.length - 1 === i ? (
                         <strong style={{ marginLeft: "6px" }}>
                           {dis.stronge}
                         </strong>
