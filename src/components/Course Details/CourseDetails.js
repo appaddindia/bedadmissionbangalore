@@ -39,18 +39,7 @@ const CourseDetails = ({ dis }) => {
                 <h2 className="h3-sm">{dis?.h1}</h2>
                 {/* Course Shot Description */}
                 {dis?.paragraphs.map((elem, i) => {
-                  return (
-                    <p key={i}>
-                      {elem}
-                      {dis?.paragraphs.length - 1 === i ? (
-                        <strong style={{ marginLeft: "6px" }}>
-                          {dis.stronge}
-                        </strong>
-                      ) : (
-                        <strong></strong>
-                      )}
-                    </p>
-                  );
+                  return <p key={i}>{elem}</p>;
                 })}
                 {/* WHAT YOU LEARN */}
                 <div className="what-you-learn">
