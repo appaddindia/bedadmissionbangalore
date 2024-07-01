@@ -51,7 +51,7 @@ const courses = [
         "Experience the richness of language and culture through our immersive B.Ed French Courses. Our curriculum transcends traditional language instruction by immersing learners in authentic linguistic and cultural contexts. From language immersion camps to virtual exchange programs, our courses offer diverse opportunities for linguistic and cultural exploration. Furthermore, our faculty comprises seasoned language professionals and native speakers who provide invaluable insights and mentorship. Join us and embark on a journey of linguistic discovery, cultural enrichment, and professional growth.",
       ],
       stronge:
-        "Looking for the best B.Ed in French in Bangalore? Then you are in  the right place. Feel free to contact us today or call us now",
+        "Looking for the best B.Ed in French in Bangalore? Then you are in  the right place. Feel free to contact us today or call us now",
       image: "images/sss5.jpg",
       link: "bed-french-courses",
       number_of_reviews: 180,
@@ -111,7 +111,7 @@ const courses = [
         "Our B.Ed Biological Science program caters to individuals with a deep interest in the biological sciences and a passion for teaching. From basic biology to advanced scientific concepts, our curriculum covers a wide range of topics, ensuring students receive a comprehensive understanding of the subject. With hands-on learning experiences and real-world applications, students are prepared to excel in their teaching careers. Our faculty members are experts in their fields, dedicated to providing personalized support and mentorship to help students reach their full potential. Join us and become part of a vibrant community of educators committed to making a difference in the world.",
       ],
       stronge:
-        "Looking for the best B.Ed in Biological Science in Bangalore? Then you are in the right place. Feel free to contact us  today or call us now",
+        "Looking for the best B.Ed in Biological Science in Bangalore? Then you are in the right place. Feel free to contact us  today or call us now",
       image: "images/sss9.avif",
       link: "bed-biological-science",
       number_of_reviews: 220,
@@ -145,7 +145,7 @@ const courses = [
         "Whether you aspire to become a Sanskrit scholar, educator, or simply wish to explore the rich heritage of India's ancient texts, our B.Ed Sanskrit Courses offer a gateway to a world of knowledge and enlightenment. Join us on a journey to discover the beauty, depth, and relevance of Sanskrit in the modern world, and become part of a vibrant community dedicated to preserving and promoting India's cultural heritage.",
       ],
       stronge:
-        "Looking for the best B.Ed in Sanskrit in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
+        "Looking for the best B.Ed in Sanskrit in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
       image: "images/sss10.avif",
       link: "bed-sanskrit-courses",
       number_of_reviews: 220,
@@ -179,7 +179,7 @@ const courses = [
         "Whether you aspire to become a Urdu scholar, educator, or simply wish to explore the rich literary heritage of Urdu literature, our B.Ed Urdu Courses offer a gateway to a world of knowledge and enlightenment. Join us on a journey to discover the beauty, depth, and relevance of Urdu language and literature in the modern world.",
       ],
       stronge:
-        "Looking for the best B.Ed in Urdu in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
+        "Looking for the best B.Ed in Urdu in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
       image: "images/sss12.jpg",
       link: "bed-urdu-courses",
       number_of_reviews: 220,
@@ -213,7 +213,7 @@ const courses = [
         "Our dedicated faculty members are passionate about Hindi and committed to student success. With their expertise and support, students receive personalized instruction and constructive feedback, enabling them to excel in their studies. Join our B.Ed Hindi Courses and immerse yourself in the rich heritage of Hindi language and literature, unlocking new opportunities for personal and professional growth.",
       ],
       stronge:
-        "Looking for the best B.Ed in Hindi in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
+        "Looking for the best B.Ed in Hindi in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
       image: "images/sss15.jpg",
       link: "bed-hindi-courses",
       number_of_reviews: 180,
@@ -247,7 +247,7 @@ const courses = [
         "Our dedicated faculty members are experts in the field of computer science and education, committed to helping students succeed. With their guidance and mentorship, students receive personalized instruction and feedback, enabling them to excel in their studies. Whether you aspire to teach in schools, colleges, or other educational institutions, our B.Ed Computer Science Courses offer the knowledge and skills needed to make a significant impact in the field of computer science education.",
       ],
       stronge:
-        "Looking for the best B.Ed in Computer Science in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
+        "Looking for the best B.Ed in Computer Science in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
       image: "images/sss17.avif",
       link: "bed-computer-science-courses",
       number_of_reviews: 240,
@@ -281,7 +281,7 @@ const courses = [
         "Our dedicated faculty members are committed to student success, offering personalized instruction and support. With their guidance, students participate in hands-on experiments, field studies, and collaborative projects, enhancing their practical skills and scientific knowledge. Join our B.Ed Physical Science Courses and discover the joy of exploring the physical world, while preparing for a rewarding career in science education.",
       ],
       stronge:
-        "Looking for the best B.Ed in Physical Science in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
+        "Looking for the best B.Ed in Physical Science in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
       image: "images/sss18.jpg",
       link: "bed-physical-science-courses",
       number_of_reviews: 150,
@@ -315,7 +315,7 @@ const courses = [
         "Our dedicated faculty members are passionate about English and committed to student success. With their expertise and support, students receive personalized instruction and constructive feedback, enabling them to excel in their studies. Join our B.Ed English Courses and immerse yourself in the rich heritage of English language and literature, unlocking new opportunities for personal and professional growth.",
       ],
       stronge:
-        "Looking for the best B.Ed in English in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
+        "Looking for the best B.Ed in English in Bangalore? Then you are in the right place. Feel free to contact us today or call us now",
       image: "images/sss21.jpg",
       link: "bed-english-courses",
       number_of_reviews: 200,
