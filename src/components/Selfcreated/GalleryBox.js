@@ -20,6 +20,36 @@ const GalleryBox = () => {
     {
       img: "ggg6.jpg",
     },
+    {
+      img: "eeee1.jpg",
+    },
+    {
+      img: "eeee2.jpg",
+    },
+    {
+      img: "eeee3.jpg",
+    },
+    {
+      img: "eeee4.jpg",
+    },
+    {
+      img: "eeee5.jpg",
+    },
+    {
+      img: "eeee6.jpg",
+    },
+    {
+      img: "eeee7.jpg",
+    },
+    {
+      img: "eeee8.jpg",
+    },
+    {
+      img: "eeee9.jpg",
+    },
+    {
+      img: "eeee10.jpg",
+    },
   ];
   return (
     <section
