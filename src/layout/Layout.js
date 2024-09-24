@@ -5,6 +5,7 @@ import { aTagClick, stickNav } from "../utils/utils";
 import Footer from "./Footer";
 import Footer2 from "./Footer2";
 import Header from "./Header";
+import FooterComponent from "./FooterComponent";
 
 const Layout = ({ children, footer, headerBtn }) => {
   useEffect(() => {
@@ -18,6 +19,7 @@ const Layout = ({ children, footer, headerBtn }) => {
       <Header headerBtn={headerBtn} />
       {children}
       {footer === 2 ? <Footer2 /> : <Footer />}
+      <FooterComponent/>
     </div>
   );
 };
