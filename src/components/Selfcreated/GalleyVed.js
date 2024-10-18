@@ -5,6 +5,9 @@ const GalleyVed = () => {
     {
       link: "https://www.youtube.com/embed/gQRtcTwiQLI?si=gxIrfJ9oAzi8hGP9",
     },
+    {
+      link: "https://www.youtube.com/embed/Um8nrYKbgrg?si=OfJZHXwSBUF3y5DT",
+    },
   ];
   return (
     <section
