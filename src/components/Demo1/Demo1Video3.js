@@ -90,13 +90,13 @@ const Demo1Video3 = () => {
                   />
                 </SwiperSlide>
                 {/* BRAND LOGO IMAGE */}
-                <SwiperSlide className="brand-logo">
+                {/* <SwiperSlide className="brand-logo">
                   <img
                     className="img-fluid"
                     src="images/11.png"
                     alt="brand-logo"
                   />
-                </SwiperSlide>
+                </SwiperSlide> */}
                 {/* BRAND LOGO IMAGE */}
               </Swiper>
               {/* Brands Carousel */}
